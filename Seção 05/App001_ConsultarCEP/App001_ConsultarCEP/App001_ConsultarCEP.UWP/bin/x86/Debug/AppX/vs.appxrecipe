@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\John\Desktop\XamarinForms2018\Seção 05\App001_ConsultarCEP\App001_ConsultarCEP\App001_ConsultarCEP.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-05-24T18:20:46.976</Modified>
+      <Modified>2022-05-24T18:36:33.408</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -72,7 +72,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Seção 05\App001_ConsultarCEP\App001_ConsultarCEP\App001_ConsultarCEP\bin\Debug\netstandard2.0\App001_ConsultarCEP.dll">
       <PackagePath>App001_ConsultarCEP.dll</PackagePath>
-      <Modified>2022-05-24T18:20:40.781</Modified>
+      <Modified>2022-05-24T18:36:25.474</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -235,11 +235,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Seção 05\App001_ConsultarCEP\App001_ConsultarCEP\App001_ConsultarCEP.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-05-24T18:20:46.240</Modified>
+      <Modified>2022-05-24T18:36:32.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Seção 05\App001_ConsultarCEP\App001_ConsultarCEP\App001_ConsultarCEP.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-05-24T18:20:46.240</Modified>
+      <Modified>2022-05-24T18:36:32.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -259,7 +259,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Seção 05\App001_ConsultarCEP\App001_ConsultarCEP\App001_ConsultarCEP.UWP\bin\x86\Debug\Core\App001_ConsultarCEP.UWP.exe">
       <PackagePath>App001_ConsultarCEP.UWP.exe</PackagePath>
-      <Modified>2022-05-24T18:20:46.969</Modified>
+      <Modified>2022-05-24T18:36:33.403</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

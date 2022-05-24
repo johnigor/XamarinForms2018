@@ -20,13 +20,27 @@ namespace App001_ConsultarCEP
         }
 
         private void BuscarCEP(object sender, EventArgs args)
-        {            
+        {
             string cep = CEP.Text.Trim();
             if (IsValidCep(cep))
             {
-                Endereco end = ViaCepServico.BuscarEnderecoViaCEP(cep);
-                Result.Text = string.Format("Endereço: {0} - {1}, {2}", end.Localidade, end.Uf, end.Logradouro);
-            }            
+                try
+                {
+                    Endereco end = ViaCepServico.BuscarEnderecoViaCEP(cep);
+                    if (end != null)
+                    {
+                        Result.Text = string.Format("Endereço: {0} - {1}, {2}", end.Localidade, end.Uf, end.Logradouro);
+                    }
+                    else
+                    {
+                        DisplayAlert("ERRO", "O endereço não foi encontrado para o CEP informado: " + cep, "OK");
+                    }
+                }
+                catch (Exception e)
+                {
+                    DisplayAlert("ERRO CRÍTICO", e.Message, "OK");
+                }
+            }
         }
 
         private bool IsValidCep(string cep)
@@ -42,7 +56,7 @@ namespace App001_ConsultarCEP
             {
                 DisplayAlert("ERRO", "CEP inválido! O CEP deve ser composto apenas por números.", "OK");
                 valido = false;
-            }            
+            }
             return valido;
         }
     }
