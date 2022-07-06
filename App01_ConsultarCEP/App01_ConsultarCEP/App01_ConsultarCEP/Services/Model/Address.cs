@@ -4,7 +4,7 @@ using System.Text;
 
 namespace App01_ConsultarCEP.Services.Model
 {
-    class Address
+    public class Address
     {
         public string Cep { get; set; }
         public string Logradouro { get; set; }
