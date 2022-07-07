@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -19,7 +15,7 @@ namespace App02_TipoPaginaXF.PageType.Carousel
 
         private void ChangePage(object sender, EventArgs args)
         {
-            Application.Current.MainPage = new Navigation.Page1();
+            Application.Current.MainPage = new NavigationPage(new Navigation.Page1()) { BarBackgroundColor = Color.Blue};
         }
     }
 }

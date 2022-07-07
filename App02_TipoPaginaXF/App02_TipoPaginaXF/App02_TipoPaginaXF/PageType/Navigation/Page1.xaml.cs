@@ -16,5 +16,10 @@ namespace App02_TipoPaginaXF.PageType.Navigation
         {
             InitializeComponent();
         }
+
+        private void ChangeToPage2(object sender, EventArgs args)
+        {
+            Navigation.PushAsync(new Page2());
+        }
     }
 }
