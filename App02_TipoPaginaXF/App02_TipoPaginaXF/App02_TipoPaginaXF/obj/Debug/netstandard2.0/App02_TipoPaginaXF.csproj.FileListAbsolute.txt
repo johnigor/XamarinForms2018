@@ -16,3 +16,4 @@ C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App
 C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\App02_TipoPaginaXF.dll
 C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\ref\App02_TipoPaginaXF.dll
 C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\App02_TipoPaginaXF.pdb
+C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\PageType\Carousel\IntroApp.xaml.g.cs
