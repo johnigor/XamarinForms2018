@@ -15,7 +15,7 @@ namespace App02_TipoPaginaXF.PageType.Carousel
 
         private void ChangePage(object sender, EventArgs args)
         {
-            Application.Current.MainPage = new NavigationPage(new Navigation.Page1()) { BarBackgroundColor = Color.Blue};
+            Application.Current.MainPage = new NavigationPage(new Navigation.Page1()) { BarBackgroundColor = Color.Blue };
         }
     }
 }
