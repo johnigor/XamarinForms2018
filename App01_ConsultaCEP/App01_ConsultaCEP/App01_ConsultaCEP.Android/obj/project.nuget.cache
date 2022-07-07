@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "b0RDMzhJ3Zq8nStXTtN1WWbv4spI4vxUDFA6vXXLiTiPdYxXwnqvObqUW6pd5mLQ4YXIJnsLjrds9hds2MiJ+w==",
+  "dgSpecHash": "yPJCLsKaz69aSCNrY1uApUV2VxdEpSJyY0ADzqQ79fJ7swbkbvwRPHFNRQwrHHbg7mX3qxe8WPhT2P9t2EL6iw==",
   "success": true,
   "projectFilePath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_ConsultaCEP\\App01_ConsultaCEP\\App01_ConsultaCEP.Android\\App01_ConsultaCEP.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\John\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\John\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",

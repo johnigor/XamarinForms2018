@@ -1,0 +1,15 @@
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\bin\Debug\netstandard2.0\App01_ConsultaCEP.deps.json
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\bin\Debug\netstandard2.0\App01_ConsultaCEP.dll
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\bin\Debug\netstandard2.0\ref\App01_ConsultaCEP.dll
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\bin\Debug\netstandard2.0\App01_ConsultaCEP.pdb
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App01_ConsultaCEP.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App01_ConsultaCEP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App01_ConsultaCEP.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App01_ConsultaCEP.AssemblyInfo.cs
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App01_ConsultaCEP.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App01_ConsultaCEP.dll
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\ref\App01_ConsultaCEP.dll
+C:\Users\John\Desktop\XamarinForms2018\App01_ConsultaCEP\App01_ConsultaCEP\App01_ConsultaCEP\obj\Debug\netstandard2.0\App01_ConsultaCEP.pdb
