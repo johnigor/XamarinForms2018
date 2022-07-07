@@ -17,9 +17,34 @@ namespace App01_ConsultaCEP
         private void BuscarCEP(object sender, EventArgs args)
         {
             string cep = CEP.Text.Trim();
-            Address address = ViaCEPService.FindAddressByCep(cep);
 
-            RESULTADO.Text = string.Format("Endereço: {0}, {1}, {2}", address.Localidade, address.Uf, address.Logradouro);
+            if (IsValidCEP(cep))
+            {
+                Address address = ViaCEPService.FindAddressByCep(cep);
+                RESULTADO.Text = string.Format("Endereço: {0}, {1}, {2}, {3}", address.Logradouro, address.Bairro, address.Localidade, address.Uf);
+            }
+            else
+            {
+                //t
+            }
+        }
+
+        private bool IsValidCEP(string cep)
+        {
+            bool valid = true;
+            if (cep.Length != 8)
+            {
+                DisplayAlert("ERROR", "Invalid zip code! The zip code must contain 8 characters", "OK");
+                valid = false;
+            }
+
+            int novoCep = 0;
+            if (!int.TryParse(cep, out novoCep))
+            {
+                DisplayAlert("ERROR", "Invalid zip code! The zip code must contain only numbers", "OK");
+                valid = false;
+            }
+            return valid;
         }
     }
 }
