@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App02_TipoPaginaXF.PageType.Carousel.PageType1.xaml", "PageType/Carousel/PageType1.xaml", typeof(global::App02_TipoPaginaXF.PageType.Carousel.Page1))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App02_TipoPaginaXF.PageType.Carousel.PageType1.xaml", "PageType/Carousel/PageType1.xaml", typeof(global::App02_TipoPaginaXF.PageType.Carousel.PageType1))]
 
 namespace App02_TipoPaginaXF.PageType.Carousel {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("PageType\\Carousel\\PageType1.xaml")]
-    public partial class Page1 : global::Xamarin.Forms.ContentPage {
+    public partial class PageType1 : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Page1));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(PageType1));
         }
     }
 }

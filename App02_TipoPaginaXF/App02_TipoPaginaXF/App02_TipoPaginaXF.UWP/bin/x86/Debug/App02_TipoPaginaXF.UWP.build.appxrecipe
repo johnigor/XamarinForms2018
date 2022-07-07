@@ -166,6 +166,9 @@
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\xamarin.png">
+      <PackagePath>xamarin.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>

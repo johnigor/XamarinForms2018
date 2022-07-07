@@ -65,17 +65,33 @@ namespace App02_TipoPaginaXF.Droid
 			}
 		}
 		
-		public partial class Mipmap
+		public partial class Drawable
 		{
 			
 			// aapt resource value: 0x7F020000
-			public const int icon = 2130837504;
+			public const int xamarin = 2130837504;
 			
-			// aapt resource value: 0x7F020001
-			public const int icon_round = 2130837505;
+			static Drawable()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
 			
-			// aapt resource value: 0x7F020002
-			public const int launcher_foreground = 2130837506;
+			private Drawable()
+			{
+			}
+		}
+		
+		public partial class Mipmap
+		{
+			
+			// aapt resource value: 0x7F030000
+			public const int icon = 2130903040;
+			
+			// aapt resource value: 0x7F030001
+			public const int icon_round = 2130903041;
+			
+			// aapt resource value: 0x7F030002
+			public const int launcher_foreground = 2130903042;
 			
 			static Mipmap()
 			{
@@ -90,8 +106,8 @@ namespace App02_TipoPaginaXF.Droid
 		public partial class Style
 		{
 			
-			// aapt resource value: 0x7F030000
-			public const int MainTheme = 2130903040;
+			// aapt resource value: 0x7F040000
+			public const int MainTheme = 2130968576;
 			
 			static Style()
 			{
