@@ -21,5 +21,10 @@ namespace App02_TipoPaginaXF.PageType.Navigation
         {
             Navigation.PushAsync(new Page2());
         }
+
+        private void GetModal(object sender, EventArgs args)
+        {
+            Navigation.PushModalAsync(new Modal());
+        }
     }
 }
