@@ -16,6 +16,7 @@ namespace App01_ConsultaCEP.Services
             string conteudo = wc.DownloadString(novoEnderecoUrl);
 
             Address address = JsonConvert.DeserializeObject<Address>(conteudo);
+            if (address.Cep == null) return null;
             return address;
         }
     }

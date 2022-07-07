@@ -18,25 +18,32 @@ namespace App01_ConsultaCEP
         {
             string cep = CEP.Text.Trim();
 
-            if (IsValidCEP(cep))
+            try
             {
                 Address address = ViaCEPService.FindAddressByCep(cep);
-                RESULTADO.Text = string.Format("Endereço: {0}, {1}, {2}, {3}", address.Logradouro, address.Bairro, address.Localidade, address.Uf);
+                if (address != null)
+                {
+                    RESULTADO.Text = string.Format("Endereço: {0}, {1}, {2}, {3}", address.Logradouro, address.Bairro, address.Localidade, address.Uf);
+                }
+                else
+                {
+                    DisplayAlert("ERRO", "The postal code entered does not exist." + cep, "OK");
+                }
             }
-            else
+            catch (Exception erro)
             {
-                //t
+                DisplayAlert("ERRO", erro.Message, "OK");
             }
         }
 
         private bool IsValidCEP(string cep)
         {
             bool valid = true;
-            if (cep.Length != 8)
+            /*if (cep.Length != 8)
             {
                 DisplayAlert("ERROR", "Invalid zip code! The zip code must contain 8 characters", "OK");
                 valid = false;
-            }
+            }*/
 
             int novoCep = 0;
             if (!int.TryParse(cep, out novoCep))
