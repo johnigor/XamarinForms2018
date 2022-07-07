@@ -16,5 +16,10 @@ namespace App02_TipoPaginaXF.PageType.Carousel
         {
             InitializeComponent();
         }
+
+        private void ChangePage(object sender, EventArgs args)
+        {
+            Application.Current.MainPage = new Navigation.Page1();
+        }
     }
 }

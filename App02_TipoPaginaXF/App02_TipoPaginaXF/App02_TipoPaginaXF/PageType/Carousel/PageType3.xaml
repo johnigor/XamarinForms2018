@@ -9,7 +9,7 @@
                    TextColor="#53A8E1"
                    VerticalOptions="CenterAndExpand" 
                    HorizontalOptions="CenterAndExpand" />
-            <Button Image="play.png" BackgroundColor="Transparent"/>
+            <Button Image="play.png" Clicked="ChangePage" BackgroundColor="Transparent"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
