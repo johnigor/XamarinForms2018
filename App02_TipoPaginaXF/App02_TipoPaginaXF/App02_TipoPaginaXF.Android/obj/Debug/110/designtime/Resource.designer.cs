@@ -69,7 +69,13 @@ namespace App02_TipoPaginaXF.Droid
 		{
 			
 			// aapt resource value: 0x7F020000
-			public const int xamarin = 2130837504;
+			public const int Page = 2130837504;
+			
+			// aapt resource value: 0x7F020001
+			public const int play = 2130837505;
+			
+			// aapt resource value: 0x7F020002
+			public const int xamarin = 2130837506;
 			
 			static Drawable()
 			{
