@@ -17,6 +17,7 @@
 
             <Button Text="Ir para Página 2" Clicked="ChangeToPage2" />
             <Button Text="Chamar Modal" Clicked="GetModal" />
+            <Button Text="Chamar Master" Clicked="GetMaster" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

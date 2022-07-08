@@ -21,3 +21,5 @@ C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App
 C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\PageType\Navigation\Page1.xaml.g.cs
 C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\PageType\Navigation\Page2.xaml.g.cs
 C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\PageType\Tabbed\Tabs.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\PageType\Master\Content.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\obj\Debug\netstandard2.0\PageType\Master\Master.xaml.g.cs

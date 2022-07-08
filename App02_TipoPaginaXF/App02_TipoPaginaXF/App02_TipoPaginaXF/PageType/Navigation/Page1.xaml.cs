@@ -26,5 +26,10 @@ namespace App02_TipoPaginaXF.PageType.Navigation
         {
             Navigation.PushModalAsync(new Modal());
         }
+
+        private void GetMaster(object sender, EventArgs args)
+        {
+            Application.Current.MainPage = new Master.Master();
+        }
     }
 }
