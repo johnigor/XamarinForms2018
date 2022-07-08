@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+<FlyoutPage xmlns="http://xamarin.com/schemas/2014/forms"
                   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
                   xmlns:pag="clr-namespace:App01_Xamarin.Pages"
                   x:Class="App01_Xamarin.Master.Menu">
-    <MasterDetailPage.Master>
+    <FlyoutPage.Flyout>
         <!--Menu-->
         <ContentPage Title="Menu" BackgroundColor="#0D1F2D">
             <StackLayout>
@@ -18,13 +18,13 @@
                 </StackLayout>
             </StackLayout>
         </ContentPage>
-    </MasterDetailPage.Master>
-    <MasterDetailPage.Detail>
+    </FlyoutPage.Flyout>
+    <FlyoutPage.Detail>
         <!--Páginas-->
         <NavigationPage>
             <x:Arguments>
                 <pag:Profile1 />
             </x:Arguments>
         </NavigationPage>
-    </MasterDetailPage.Detail>
-</MasterDetailPage>
+    </FlyoutPage.Detail>
+</FlyoutPage>

@@ -5,7 +5,7 @@ using Xamarin.Forms.Xaml;
 namespace App01_Xamarin.Master
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Menu : MasterDetailPage
+    public partial class Menu : FlyoutPage
     {
         public Menu()
         {
