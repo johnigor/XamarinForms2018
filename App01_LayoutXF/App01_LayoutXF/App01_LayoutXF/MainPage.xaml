@@ -4,11 +4,11 @@
              x:Class="App01_LayoutXF.MainPage">
 
     <StackLayout>
-        <Button Text="=Absolute" Clicked="GoPageAbsolute"/>
-        <Button Text="=Grid" Clicked="GoPageGrid"/>
-        <Button Text="=Relative" Clicked="GoPageRelative"/>
-        <Button Text="=Scroll" Clicked="GoPageScroll"/>
-        <Button Text="=Stack" Clicked="GoPageStack"/>
+        <Button Text="Absolute" Clicked="GoPageAbsolute"/>
+        <Button Text="Grid" Clicked="GoPageGrid"/>
+        <Button Text="Relative" Clicked="GoPageRelative"/>
+        <Button Text="Scroll" Clicked="GoPageScroll"/>
+        <Button Text="Stack" Clicked="GoPageStack"/>
     </StackLayout>
 
 </ContentPage>
