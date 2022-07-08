@@ -64,7 +64,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF\bin\Debug\netstandard2.0\App02_TipoPaginaXF.dll">
       <PackagePath>App02_TipoPaginaXF.dll</PackagePath>
-      <Modified>2022-07-08T14:11:26.515</Modified>
+      <Modified>2022-07-08T14:15:53.766</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
