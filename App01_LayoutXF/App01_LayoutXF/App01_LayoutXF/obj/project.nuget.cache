@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rGnjlFMgIdoitAMVmnDH3A7p2Pefr1p6soZVLy87DBKkT4haw0GxzJ/32eR0f0q6uLZNACmOwkzoYVFc2U337w==",
+  "dgSpecHash": "67kvbPFiq4INRFTRKMq2h/9B8Tu/hLjqkeUKwMufLkNu3zZfWJd+11UsoHY3ktJFArEAwtIUORVihJD+tZc65w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj",
+  "projectFilePath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

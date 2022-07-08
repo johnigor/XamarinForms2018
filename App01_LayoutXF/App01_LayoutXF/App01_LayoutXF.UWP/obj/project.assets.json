@@ -9049,11 +9049,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\App01_LayoutXF.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\App01_LayoutXF.UWP.csproj",
       "projectName": "App01_LayoutXF.UWP",
-      "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\App01_LayoutXF.UWP.csproj",
+      "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\App01_LayoutXF.UWP.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\obj\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -9077,8 +9077,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj": {
-              "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj"
+            "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj": {
+              "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj"
             }
           }
         }

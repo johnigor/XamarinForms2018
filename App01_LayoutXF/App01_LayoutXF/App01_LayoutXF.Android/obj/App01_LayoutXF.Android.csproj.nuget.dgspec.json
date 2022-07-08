@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.Android\\App01_LayoutXF.Android.csproj": {}
+    "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.Android\\App01_LayoutXF.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.Android\\App01_LayoutXF.Android.csproj": {
+    "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.Android\\App01_LayoutXF.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.Android\\App01_LayoutXF.Android.csproj",
+        "projectUniqueName": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.Android\\App01_LayoutXF.Android.csproj",
         "projectName": "App01_LayoutXF.Android",
-        "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.Android\\App01_LayoutXF.Android.csproj",
+        "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.Android\\App01_LayoutXF.Android.csproj",
         "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.Android\\obj\\",
+        "outputPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj": {
-                "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj"
+              "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj": {
+                "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj"
               }
             }
           }
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj": {
+    "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj",
+        "projectUniqueName": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj",
         "projectName": "App01_LayoutXF",
-        "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj",
+        "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj",
         "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section07\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\obj\\",
+        "outputPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
