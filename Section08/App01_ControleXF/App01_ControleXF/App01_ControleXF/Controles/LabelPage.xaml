@@ -8,8 +8,7 @@
                    TextColor="White"
                    FontSize="24"
                    FontAttributes="Italic"
-                   LineBreakMode="WordWrap"
-                   
+                   LineBreakMode="WordWrap"                   
                    BackgroundColor="Black"
                    VerticalOptions="CenterAndExpand"
                    HorizontalOptions="CenterAndExpand" />

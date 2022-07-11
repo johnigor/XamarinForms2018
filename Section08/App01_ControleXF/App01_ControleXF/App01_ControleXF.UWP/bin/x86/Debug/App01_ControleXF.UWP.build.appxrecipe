@@ -166,6 +166,9 @@
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\button.png">
+      <PackagePath>button.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
