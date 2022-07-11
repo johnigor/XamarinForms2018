@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "L2WABI8AmEaZ9Y3ztfeXmTOfikt+divK4eul7v3TBnNjJy3oUuVI2K5VLe3PlpIbnGSPowVx+lvEnwZnHD9TBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section08\\App01_ControleXF\\App01_ControleXF\\App01_ControleXF.iOS\\App01_ControleXF.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\John\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.3 to 1.6.1. Reference the package directly from the project to select a different version. \r\n App01_ControleXF.iOS -> App01_ControleXF -> Xamarin.Essentials (>= 1.7.3) \r\n App01_ControleXF.iOS -> Xamarin.Essentials (>= 1.6.1)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2478 to 5.0.0.2012. Reference the package directly from the project to select a different version. \r\n App01_ControleXF.iOS -> App01_ControleXF -> Xamarin.Forms (>= 5.0.0.2478) \r\n App01_ControleXF.iOS -> Xamarin.Forms (>= 5.0.0.2012)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
