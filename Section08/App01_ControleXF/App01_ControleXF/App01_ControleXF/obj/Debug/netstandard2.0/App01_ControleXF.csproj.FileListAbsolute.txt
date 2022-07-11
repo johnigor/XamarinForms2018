@@ -14,3 +14,4 @@ C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_Controle
 C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF\obj\Debug\netstandard2.0\App01_ControleXF.dll
 C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF\obj\Debug\netstandard2.0\ref\App01_ControleXF.dll
 C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF\obj\Debug\netstandard2.0\App01_ControleXF.pdb
+C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF\obj\Debug\netstandard2.0\Controles\ActivityIndicatorPage.xaml.g.cs

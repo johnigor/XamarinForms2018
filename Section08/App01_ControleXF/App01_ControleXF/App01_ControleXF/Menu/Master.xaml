@@ -6,7 +6,7 @@
     <FlyoutPage.Flyout>
         <ContentPage Title="Menu">
             <StackLayout>
-                <!-- <Button /> -->
+                <Button Text="Activity Indicator" Clicked="GoActivityIndicatorPage"/>
             </StackLayout>
         </ContentPage>
     </FlyoutPage.Flyout>
