@@ -14,7 +14,7 @@ namespace App01_ControleXF.Menu {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Menu\\Master.xaml")]
-    public partial class Master : global::Xamarin.Forms.FlyoutPage {
+    public partial class Master : global::Xamarin.Forms.MasterDetailPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
