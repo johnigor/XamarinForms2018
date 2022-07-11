@@ -166,8 +166,14 @@
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\Fundo.png">
+      <PackagePath>Fundo.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\logo.png">
       <PackagePath>logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\Perfil.png">
+      <PackagePath>Perfil.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>

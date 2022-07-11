@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-07-08T19:51:46.313</Modified>
+      <Modified>2022-07-11T13:48:12.311</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\bin\x86\Debug\App01_Xamarin.UWP.exe">
       <PackagePath>entrypoint\App01_Xamarin.UWP.exe</PackagePath>
-      <Modified>2022-07-08T19:51:44.994</Modified>
+      <Modified>2022-07-11T13:48:09.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -64,7 +64,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin\bin\Debug\netstandard2.0\App01_Xamarin.dll">
       <PackagePath>App01_Xamarin.dll</PackagePath>
-      <Modified>2022-07-08T19:54:59.260</Modified>
+      <Modified>2022-07-11T13:50:45.892</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -213,9 +213,17 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-07-08T18:21:56.825</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\Fundo.png">
+      <PackagePath>Fundo.png</PackagePath>
+      <Modified>2022-07-11T13:37:36.729</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\logo.png">
       <PackagePath>logo.png</PackagePath>
       <Modified>2022-07-08T18:43:04.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\Perfil.png">
+      <PackagePath>Perfil.png</PackagePath>
+      <Modified>2022-07-11T13:42:04.346</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -227,11 +235,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-07-08T19:51:44.938</Modified>
+      <Modified>2022-07-11T13:48:09.631</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-07-08T19:51:44.939</Modified>
+      <Modified>2022-07-11T13:48:09.632</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -247,11 +255,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-07-08T18:55:59.693</Modified>
+      <Modified>2022-07-11T13:48:10.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\App01_Xamarin\App01_Xamarin\App01_Xamarin.UWP\bin\x86\Debug\Core\App01_Xamarin.UWP.exe">
       <PackagePath>App01_Xamarin.UWP.exe</PackagePath>
-      <Modified>2022-07-08T19:51:46.309</Modified>
+      <Modified>2022-07-11T13:48:12.307</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

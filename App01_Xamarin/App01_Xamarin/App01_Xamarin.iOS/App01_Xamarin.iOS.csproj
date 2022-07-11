@@ -136,4 +136,10 @@
   <ItemGroup>
     <BundleResource Include="Resources\logo.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Fundo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Perfil.png" />
+  </ItemGroup>
 </Project>
