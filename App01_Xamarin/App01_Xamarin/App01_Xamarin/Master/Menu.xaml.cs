@@ -14,12 +14,14 @@ namespace App01_Xamarin.Master
 
         private void GoForProfile1Page(object sender, EventArgs args)
         {
-            Navigation.PushAsync(new Pages.Profile1());
+            Detail = new NavigationPage(new Pages.Profile1());
+            IsPresented = false;
         }
 
         private void GoForXamarinPage(object sender, EventArgs args)
         {
-            Navigation.PushAsync(new Pages.Xamarin());
+            Detail = new NavigationPage(new Pages.Xamarin());
+            IsPresented = false;
         }
     }
 }
