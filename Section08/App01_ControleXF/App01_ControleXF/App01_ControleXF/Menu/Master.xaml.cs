@@ -5,6 +5,7 @@ using Xamarin.Forms.Xaml;
 namespace App01_ControleXF.Menu
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
+    [Obsolete]
     public partial class Master : MasterDetailPage
     {
         public Master()
