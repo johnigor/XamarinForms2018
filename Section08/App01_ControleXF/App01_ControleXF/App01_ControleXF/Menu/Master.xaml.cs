@@ -36,10 +36,20 @@ namespace App01_ControleXF.Menu
         {
             Detail = new Controles.ButtonPage();
         }
-        
+
         private void GoEntryEditorPage(object sender, EventArgs args)
         {
             Detail = new Controles.EntryEditorPage();
+        }
+
+        private void GoDatePickerPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.DatePickerPage();
+        }
+        
+        private void GoTimePickerPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.TimePickerPage();
         }
     }
 }
