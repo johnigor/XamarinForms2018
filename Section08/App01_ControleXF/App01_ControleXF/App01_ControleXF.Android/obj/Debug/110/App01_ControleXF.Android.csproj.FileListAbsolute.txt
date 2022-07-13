@@ -646,3 +646,9 @@ C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_Controle
 C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\110\res\drawable-hdpi\usb.jpg
+C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\110\res\drawable-ldpi\usb.jpg
+C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\110\res\drawable-mdpi\usb.jpg
+C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\110\res\drawable-xhdpi\usb.jpg
+C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\110\res\drawable-xxhdpi\usb.jpg
+C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.Android\obj\Debug\110\res\drawable-xxxhdpi\usb.jpg
