@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App01_ControleXF.Controles.ImagePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <!-- Source pode ser: Resource, Local, Internet-->
+            <Image                
+                Source="https://asset.skoiy.com/26d182415586827dc0b898d7b73b788e/bb6c274f1bc1425900c76b0db69a2ac1.jpg"
+                Aspect="AspectFill"
+                IsOpaque="True"
+                x:Name="ImageOne"
+                />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
