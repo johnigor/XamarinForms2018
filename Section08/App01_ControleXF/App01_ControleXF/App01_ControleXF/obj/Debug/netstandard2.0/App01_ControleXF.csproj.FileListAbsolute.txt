@@ -27,3 +27,4 @@ C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_Controle
 C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF\obj\Debug\netstandard2.0\Controles\SliderStepperPage.xaml.g.cs
 C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF\obj\Debug\netstandard2.0\Controles\SwitchPage.xaml.g.cs
 C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF\obj\Debug\netstandard2.0\Controles\ImagePage.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF\obj\Debug\netstandard2.0\Controles\ListViewPage.xaml.g.cs
