@@ -12,10 +12,12 @@ namespace App01_ControleXF.Controles
             InitializeComponent();
             //ImageOne.IsLoading;
 
-            Image image = new Image();
-            image.Source = Device.RuntimePlatform == Device.UWP
+            Image image = new Image
+            {
+                Source = Device.RuntimePlatform == Device.UWP
                 ? ImageSource.FromFile("Images/usb.png")
-                : ImageSource.FromFile("usb.jpg");
+                : ImageSource.FromFile("usb.jpg")
+            };
 
             Container.Children.Add(image);
         }

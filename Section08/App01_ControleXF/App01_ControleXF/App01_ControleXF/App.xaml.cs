@@ -1,11 +1,11 @@
 ﻿using System;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace App01_ControleXF
 {
     public partial class App : Application
     {
+        [Obsolete]
         public App()
         {
             InitializeComponent();

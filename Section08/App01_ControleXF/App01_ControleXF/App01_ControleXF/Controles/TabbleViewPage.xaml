@@ -7,7 +7,7 @@
             <TableView Intent="Settings">
                 <TableRoot>
                     <TableSection Title="Backup">
-                        <SwitchCell Text="Backup das Imagens" On="False" />
+                        <SwitchCell OnColor="Green" Text="Backup das Imagens" On="False" />
                         <SwitchCell Text="Backup dos Textos" On="False" />
                         <SwitchCell Text="Backup do Chat" On="False" />
                         <ViewCell>

@@ -4,15 +4,15 @@
              x:Class="App01_ControleXF.Controles.ButtonPage">
     <ContentPage.Content>
         <StackLayout>
-            <Button Text="Botão 1" 
-                    TextColor="Blue"
+            <Button Text="Button" 
+                    TextColor="White"
                     FontSize="24"
-                    BorderColor="Red"
+                    BorderColor="White"
                     BorderRadius="20"
                     BorderWidth="5"                    
-                    BackgroundColor="White"
+                    BackgroundColor="Black"
                     />
-            <Button Text="Botão 2"/>
+            <Button Text="Button" />
             <ImageButton BackgroundColor="Transparent" Source="button.png" HeightRequest="100" HorizontalOptions="Start" />
         </StackLayout>
     </ContentPage.Content>
