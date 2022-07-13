@@ -169,6 +169,21 @@
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\button.png">
       <PackagePath>button.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\Images\usb.scale-100.png">
+      <PackagePath>Images\usb.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\Images\usb.scale-125.png">
+      <PackagePath>Images\usb.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\Images\usb.scale-150.png">
+      <PackagePath>Images\usb.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\Images\usb.scale-200.png">
+      <PackagePath>Images\usb.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\Images\usb.scale-400.png">
+      <PackagePath>Images\usb.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>

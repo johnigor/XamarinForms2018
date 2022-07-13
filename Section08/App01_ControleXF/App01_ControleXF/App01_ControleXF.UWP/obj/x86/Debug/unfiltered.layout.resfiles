@@ -30,4 +30,9 @@ App.xbf
 App01_ControleXF.UWP.xr.xml
 MainPage.xbf
 button.png
+Images\usb.scale-100.png
+Images\usb.scale-125.png
+Images\usb.scale-150.png
+Images\usb.scale-200.png
+Images\usb.scale-400.png
 Properties\Default.rd.xml

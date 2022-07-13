@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -16,6 +11,13 @@ namespace App01_ControleXF.Controles
         {
             InitializeComponent();
             //ImageOne.IsLoading;
+
+            Image image = new Image();
+            image.Source = Device.RuntimePlatform == Device.UWP
+                ? ImageSource.FromFile("Images/usb.png")
+                : ImageSource.FromFile("usb.jpg");
+
+            Container.Children.Add(image);
         }
     }
 }
