@@ -1,0 +1,16 @@
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\bin\Debug\netstandard2.0\App02_Tarefa.deps.json
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\bin\Debug\netstandard2.0\App02_Tarefa.dll
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\bin\Debug\netstandard2.0\ref\App02_Tarefa.dll
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\bin\Debug\netstandard2.0\App02_Tarefa.pdb
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App02_Tarefa.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App02_Tarefa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\Telas\Cadastro.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\Telas\Inicio.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App02_Tarefa.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App02_Tarefa.AssemblyInfo.cs
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App02_Tarefa.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App02_Tarefa.dll
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\ref\App02_Tarefa.dll
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App02_Tarefa.pdb
