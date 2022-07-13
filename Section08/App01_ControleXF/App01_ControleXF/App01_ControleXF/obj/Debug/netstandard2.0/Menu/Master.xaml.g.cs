@@ -8,9 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-#pragma warning disable CS0612 // Type or member is obsolete
 [assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App01_ControleXF.Menu.Master.xaml", "Menu/Master.xaml", typeof(global::App01_ControleXF.Menu.Master))]
-#pragma warning restore CS0612 // Type or member is obsolete
 
 namespace App01_ControleXF.Menu {
     
