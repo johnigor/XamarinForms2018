@@ -20,6 +20,7 @@
                 <Button Text="Switch" Clicked="GoSwitchPage"/>
                 <Button Text="Image" Clicked="GoImagePage"/>
                 <Button Text="List View" Clicked="GoListViewPage"/>
+                <Button Text="Table View" Clicked="GoTabbleViewPage"/>
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>
