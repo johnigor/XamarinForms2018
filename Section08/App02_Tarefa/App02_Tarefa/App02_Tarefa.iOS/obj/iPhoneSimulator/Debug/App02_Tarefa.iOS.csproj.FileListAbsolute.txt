@@ -61,3 +61,4 @@ C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02
 C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.iOS\obj\iPhoneSimulator\Debug\App02_Tarefa.iOS.csproj.CopyComplete
 C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.iOS\obj\iPhoneSimulator\Debug\App02_Tarefa.iOS.exe
 C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.iOS\obj\iPhoneSimulator\Debug\App02_Tarefa.iOS.pdb
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
