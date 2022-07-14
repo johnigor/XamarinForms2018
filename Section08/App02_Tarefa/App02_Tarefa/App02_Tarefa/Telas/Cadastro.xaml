@@ -5,8 +5,20 @@
     <ContentPage.Content>
         <StackLayout>
             <StackLayout BackgroundColor="#002FB1" HeightRequest="250">
-                <Label Text="My Day" FontSize="24"  HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" TextColor="White" />
-                <Label FontAttributes="Italic" Margin="10" Text="Quinta-Feira, 22/02" TextColor="White" HorizontalOptions="Start" VerticalOptions="End" />
+                <Label Text="My Day" 
+                       FontSize="24"  
+                       HorizontalOptions="CenterAndExpand" 
+                       VerticalOptions="CenterAndExpand" 
+                       TextColor="White"
+                       />
+                <Label FontAttributes="Italic" 
+                       Margin="10" 
+                       Text="FALTA COLOCAR A DATA AQUI" 
+                       x:Name="DataHoje" 
+                       TextColor="White" 
+                       HorizontalOptions="Start" 
+                       VerticalOptions="End"
+                       />
             </StackLayout>
             <StackLayout Padding="25" Spacing="15">
                 <Label Text="Nome" FontAttributes="Bold"/>

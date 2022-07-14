@@ -4,9 +4,23 @@
              x:Class="App02_Tarefa.Telas.Inicio">
     <ContentPage.Content>
         <StackLayout>
-            <StackLayout BackgroundColor="#002FB1" HeightRequest="250">
-                <Label Text="My Day" FontSize="24"  HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" TextColor="White" />
-                <Label FontAttributes="Italic" Margin="10" Text="Quinta-Feira, 22/02" TextColor="White" HorizontalOptions="Start" VerticalOptions="End" />
+            <StackLayout BackgroundColor="#002FB1" 
+                         HeightRequest="250"
+                         >
+                <Label Text="My Day" 
+                       FontSize="24" 
+                       HorizontalOptions="CenterAndExpand" 
+                       VerticalOptions="CenterAndExpand" 
+                       TextColor="White" 
+                       />
+                <Label FontAttributes="Italic" 
+                       Margin="10" 
+                       Text="" 
+                       x:Name="DataHoje" 
+                       TextColor="White" 
+                       HorizontalOptions="Start" 
+                       VerticalOptions="End" 
+                       />
             </StackLayout>
             <StackLayout x:Name="SL_Tarefas" Padding="15" Spacing="10" >
                 <StackLayout Orientation="Horizontal" Spacing="15">
@@ -68,7 +82,10 @@
                     </Image>
                 </StackLayout>
             </StackLayout>
-            <Button HorizontalOptions="Center" BackgroundColor="Transparent" Clicked="GoCadastro">
+            <Button HorizontalOptions="Center" 
+                    BackgroundColor="Transparent" 
+                    Clicked="GoCadastro"
+                    >
                 <Button.Image>
                     <OnPlatform x:TypeArguments="FileImageSource">
                         <On Platform="Android, iOS" Value="AddBotao.png" />
