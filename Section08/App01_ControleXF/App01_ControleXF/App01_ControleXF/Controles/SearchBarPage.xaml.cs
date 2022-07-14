@@ -15,14 +15,16 @@ namespace App01_ControleXF.Controles
         {
             InitializeComponent();
 
-            _empresasTI = new List<string>();
-            _empresasTI.Add("Microsoft");
-            _empresasTI.Add("Apple");
-            _empresasTI.Add("Oracle");
-            _empresasTI.Add("IBM");
-            _empresasTI.Add("SAP");
-            _empresasTI.Add("Uber");
-            _empresasTI.Add("IFood");
+            _empresasTI = new List<string>
+            {
+                "Microsoft",
+                "Apple",
+                "Oracle",
+                "IBM",
+                "SAP",
+                "Uber",
+                "IFood"
+            };
 
             Preencher(_empresasTI);
         }
@@ -35,7 +37,7 @@ namespace App01_ControleXF.Controles
 
         private void Pesquisar(object sender, TextChangedEventArgs args)
         {
-            var resultado =_empresasTI.Where(x => x.ToUpper().Contains(args.NewTextValue.ToUpper())).ToList<String>();
+            var resultado = _empresasTI.Where(x => x.ToUpper().Contains(args.NewTextValue.ToUpper())).ToList();
             Preencher(resultado);
         }
         private void Preencher(List<string> empresasTI)
@@ -46,10 +48,8 @@ namespace App01_ControleXF.Controles
                 ListResult.Children.Add(new Label { Text = emp });
             }
         }
-
         private void Pesquisar(object sender, EventArgs e)
         {
-
         }
     }
 }

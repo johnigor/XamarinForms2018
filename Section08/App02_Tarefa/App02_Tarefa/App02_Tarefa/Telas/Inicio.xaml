@@ -27,7 +27,7 @@
                 </StackLayout>
             </StackLayout>
 
-            <Button Text="Adicionar" HorizontalOptions="Center" />
+            <Button Text="Adicionar" HorizontalOptions="Center" Clicked="GoCadastro"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

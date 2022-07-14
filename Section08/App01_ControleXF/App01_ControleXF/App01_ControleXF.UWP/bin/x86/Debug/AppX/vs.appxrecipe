@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-07-13T19:03:37.254</Modified>
+      <Modified>2022-07-13T21:03:30.897</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\bin\x86\Debug\App01_ControleXF.UWP.exe">
       <PackagePath>entrypoint\App01_ControleXF.UWP.exe</PackagePath>
-      <Modified>2022-07-13T19:03:35.750</Modified>
+      <Modified>2022-07-13T21:03:28.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -64,7 +64,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF\bin\Debug\netstandard2.0\App01_ControleXF.dll">
       <PackagePath>App01_ControleXF.dll</PackagePath>
-      <Modified>2022-07-13T19:19:12.369</Modified>
+      <Modified>2022-07-13T21:03:21.991</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -247,11 +247,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-07-13T19:03:35.665</Modified>
+      <Modified>2022-07-13T21:03:28.788</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-07-13T19:03:35.665</Modified>
+      <Modified>2022-07-13T21:03:28.788</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -271,7 +271,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App01_ControleXF\App01_ControleXF\App01_ControleXF.UWP\bin\x86\Debug\Core\App01_ControleXF.UWP.exe">
       <PackagePath>App01_ControleXF.UWP.exe</PackagePath>
-      <Modified>2022-07-13T19:03:37.254</Modified>
+      <Modified>2022-07-13T21:03:30.897</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

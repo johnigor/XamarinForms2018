@@ -4,9 +4,34 @@
              x:Class="App02_Tarefa.Telas.Cadastro">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <StackLayout BackgroundColor="#002FB1" HeightRequest="250">
+                <Label TextColor="White" Text="My Day" FontSize="24" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+                <Label TextColor="White" Text="Quinta, 22/02" HorizontalOptions="Start" VerticalOptions="End"/>
+            </StackLayout>
+            <StackLayout Padding="10">
+                <Label Text="Nome" FontAttributes="Bold"/>
+                <Entry x:Name="TxtNome"/>
+                <Label Text="Prioridade" FontAttributes="Bold"/>
+                <StackLayout x:Name="SL_Prioridades">
+                    <StackLayout Spacing="10" Orientation="Horizontal">
+                        <Image />
+                        <Label Text="Urgente e não importante" HorizontalOptions="FillAndExpand" />
+                    </StackLayout>
+                    <StackLayout Spacing="10" Orientation="Horizontal">
+                        <Image />
+                        <Label Text="Não urgente e importante" HorizontalOptions="FillAndExpand" />
+                    </StackLayout>
+                    <StackLayout Spacing="10" Orientation="Horizontal">
+                        <Image />
+                        <Label Text="Não urgente e não importante" HorizontalOptions="FillAndExpand" />
+                    </StackLayout>
+                    <StackLayout Spacing="10" Orientation="Horizontal">
+                        <Image />
+                        <Label Text="Urgente e importante" HorizontalOptions="FillAndExpand" />
+                    </StackLayout>
+                </StackLayout>
+                <Button TextColor="White"  Text="OK" BackgroundColor="#002FB1" HorizontalOptions="End"/>
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -16,5 +16,9 @@ namespace App02_Tarefa.Telas
         {
             InitializeComponent();
         }
+        private void GoCadastro(object sender, EventArgs args)
+        {
+            Navigation.PushAsync(new Cadastro());
+        }
     }
 }

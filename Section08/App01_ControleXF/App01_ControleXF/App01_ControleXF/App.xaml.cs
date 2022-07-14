@@ -10,7 +10,7 @@ namespace App01_ControleXF
         {
             InitializeComponent();
 
-            MainPage = new Menu.Master();
+            MainPage = new NavigationPage(new Menu.Master());
         }
 
         protected override void OnStart()
