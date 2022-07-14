@@ -60,3 +60,4 @@ C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02
 C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
 C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637874577720000000.json
+C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\bin\x86\Debug\Newtonsoft.Json.dll

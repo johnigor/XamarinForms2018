@@ -123,6 +123,9 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json">
+      <Version>13.0.1</Version>
+    </PackageReference>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2478" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.3" />
   </ItemGroup>
@@ -132,5 +135,29 @@
       <Project>{1EB383E4-C85C-41A4-95AC-25A72AE5AD3B}</Project>
       <Name>App02_Tarefa</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\AddBotao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\CheckOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\CheckOn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Delete.png" />
   </ItemGroup>
 </Project>

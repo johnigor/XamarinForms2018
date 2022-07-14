@@ -5,32 +5,60 @@
     <ContentPage.Content>
         <StackLayout>
             <StackLayout BackgroundColor="#002FB1" HeightRequest="250">
-                <Label TextColor="White" Text="My Day" FontSize="24" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
-                <Label TextColor="White" Text="Quinta, 22/02" HorizontalOptions="Start" VerticalOptions="End"/>
+                <Label Text="My Day" FontSize="24"  HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" TextColor="White" />
+                <Label FontAttributes="Italic" Margin="10" Text="Quinta, 22/02" TextColor="White" HorizontalOptions="Start" VerticalOptions="End" />
             </StackLayout>
-            <StackLayout Padding="10">
+            <StackLayout Padding="25" Spacing="15">
                 <Label Text="Nome" FontAttributes="Bold"/>
                 <Entry x:Name="TxtNome"/>
                 <Label Text="Prioridade" FontAttributes="Bold"/>
-                <StackLayout x:Name="SL_Prioridades">
+                <StackLayout x:Name="SL_Prioridades" Spacing="22">
                     <StackLayout Spacing="10" Orientation="Horizontal">
-                        <Image />
+                        <Image>
+                            <Image.Source>
+                                <OnPlatform x:TypeArguments="ImageSource">
+                                    <On Platform="Android, iOS" Value="4.png" />
+                                    <On Platform="UWP" Value="Resources/4.png" />
+                                </OnPlatform>
+                            </Image.Source>
+                        </Image>
+                        <Label Text="Urgente e importante" HorizontalOptions="FillAndExpand" />
+                    </StackLayout>
+                    <StackLayout Spacing="10" Orientation="Horizontal">
+                        <Image>
+                            <Image.Source>
+                                <OnPlatform x:TypeArguments="ImageSource">
+                                    <On Platform="Android, iOS" Value="3.png" />
+                                    <On Platform="UWP" Value="Resources/3.png" />
+                                </OnPlatform>
+                            </Image.Source>
+                        </Image>
                         <Label Text="Urgente e não importante" HorizontalOptions="FillAndExpand" />
                     </StackLayout>
                     <StackLayout Spacing="10" Orientation="Horizontal">
-                        <Image />
+                        <Image>
+                            <Image.Source>
+                                <OnPlatform x:TypeArguments="ImageSource">
+                                    <On Platform="Android, iOS" Value="2.png" />
+                                    <On Platform="UWP" Value="Resources/2.png" />
+                                </OnPlatform>
+                            </Image.Source>
+                        </Image>
                         <Label Text="Não urgente e importante" HorizontalOptions="FillAndExpand" />
                     </StackLayout>
                     <StackLayout Spacing="10" Orientation="Horizontal">
-                        <Image />
-                        <Label Text="Não urgente e não importante" HorizontalOptions="FillAndExpand" />
-                    </StackLayout>
-                    <StackLayout Spacing="10" Orientation="Horizontal">
-                        <Image />
-                        <Label Text="Urgente e importante" HorizontalOptions="FillAndExpand" />
+                        <Image>
+                            <Image.Source>
+                                <OnPlatform x:TypeArguments="ImageSource">
+                                    <On Platform="Android, iOS" Value="1.png" />
+                                    <On Platform="UWP" Value="Resources/1.png" />
+                                </OnPlatform>
+                            </Image.Source>
+                        </Image>
+                        <Label Text="Não rgente e não importante" HorizontalOptions="FillAndExpand" />
                     </StackLayout>
                 </StackLayout>
-                <Button TextColor="White"  Text="OK" BackgroundColor="#002FB1" HorizontalOptions="End"/>
+                <Button TextColor="White" Text="OK" BackgroundColor="#002FB1" HorizontalOptions="End"/>
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>
