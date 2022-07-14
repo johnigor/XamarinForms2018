@@ -37,26 +37,25 @@ namespace App02_Tarefa.Telas
         public void SalvarAction(object sender, EventArgs args)
         {
             bool ErroExiste = false;
-            if (!(TxtNome.Text.Trim().Length > 0))
+            if (TxtNome.Text == null || TxtNome.Text.Trim().Length <= 0)
             {
                 ErroExiste = true;
-                DisplayAlert("ERRO: ", "Nome não preenchido", "OK");
+                DisplayAlert("ERRO: ", "Tarefa não digitada", "OK");
             }
-            if (!(Priority > 0))
+            if (Priority <= 0)
             {
                 ErroExiste = true;
-                DisplayAlert("ERRO: ", "Prioridade não foi informada!", "OK");
+                DisplayAlert("ERRO: ", "Prioridade não foi escolhida!", "OK");
             }
             if (ErroExiste == false)
-            {                
-                Tarefa tarefa = new Tarefa
-                {
-                    Nome = TxtNome.Text.Trim(),
-                    Prioridade = Priority
-                };
+            {
+                Tarefa tarefa = new Tarefa();
+                tarefa.Nome = TxtNome.Text.Trim();
+                tarefa.Prioridade = Priority;
+
                 new GerenciadorTarefa().Salvar(tarefa);
 
-                TxtNome.Text = new GerenciadorTarefa().Listagem().Count.ToString();
+                App.Current.MainPage = new NavigationPage(new Inicio());
             }
         }
     }

@@ -64,7 +64,7 @@
                                 </OnPlatform>
                             </Image.Source>
                         </Image>
-                        <Label Text="Não rgente e não importante" TextColor="Gray" HorizontalOptions="FillAndExpand" />
+                        <Label Text="Não urgente e não importante" TextColor="Gray" HorizontalOptions="FillAndExpand" />
                         <StackLayout.GestureRecognizers>
                             <TapGestureRecognizer Tapped="PrioridadeSelectAction" />
                         </StackLayout.GestureRecognizers>
