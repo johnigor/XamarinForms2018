@@ -18,10 +18,22 @@ namespace App02_Tarefa.Telas
             InitializeComponent();
 
             DataHoje.Text = DateTime.Now.DayOfWeek.ToString() + ", " + DateTime.Now.ToString("dd:MM");
+            CarregarTarefas();
         }
         private void GoCadastro(object sender, EventArgs args)
         {
             Navigation.PushAsync(new Cadastro());
+        }
+        private void CarregarTarefas()
+        {
+            SL_Tarefas.Children.Clear();
+
+            List<Tarefa> lista = new GerenciadorTarefa().Listagem();
+
+            foreach (Tarefa tarefa in lista)
+            {
+                LinhaStackLayout(tarefa);
+            }
         }
         public void LinhaStackLayout(Tarefa tarefa)
         {
@@ -69,12 +81,11 @@ namespace App02_Tarefa.Telas
 
                 ((StackLayout)stackCentral).Children.Add(new Label()
                 {
-                    Text = "Finalizado em: " + tarefa.DataFinalizacao.ToString("dd/MM/yyyy - HH:mm" + "h"),
+                    Text = "Finalizado em: " + tarefa.DataFinalizacao.Value.ToString("dd/MM/yyyy - HH:mm" + "h"),
                     TextColor = Color.Gray,
                     FontSize = 10
                 });
             }
-
 
             Image check = new Image()
             {
@@ -95,7 +106,6 @@ namespace App02_Tarefa.Telas
             linha.Children.Add(stackCentral);
             linha.Children.Add(prioridade);
             linha.Children.Add(delete);
-
             SL_Tarefas.Children.Add(linha);
         }
     }
