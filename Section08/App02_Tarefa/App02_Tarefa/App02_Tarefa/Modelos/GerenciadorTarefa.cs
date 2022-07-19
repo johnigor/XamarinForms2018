@@ -1,36 +1,35 @@
-﻿using Newtonsoft.Json;
-using System;
+﻿using System;
+using Newtonsoft.Json;
 using System.Collections.Generic;
-using System.Text;
 
 namespace App02_Tarefa.Modelos
 {
     public class GerenciadorTarefa
     {
-        private List<Tarefa> _lista { get; set; }
+        private List<Tarefa> Lista { get; set; }
         public void Salvar(Tarefa tarefa)
         {
-            _lista = Listagem();
-            _lista.Add(tarefa);
+            Lista = Listagem();
+            Lista.Add(tarefa);
 
-            SalvarNoProperties(_lista);
+            SalvarNoProperties(Lista);
         }
         public void Deletar(int index)
         {
-            _lista = Listagem();
-            _lista.RemoveAt(index);
+            Lista = Listagem();
+            Lista.RemoveAt(index);
 
-            SalvarNoProperties(_lista);
+            SalvarNoProperties(Lista);
 
         }
         public void Finalizar(int index, Tarefa tarefa)
         {
-            _lista = Listagem();
-            _lista.RemoveAt(index);
+            Lista = Listagem();
+            Lista.RemoveAt(index);
 
             tarefa.DataFinalizacao = DateTime.Now;
-            _lista.Add(tarefa);
-            SalvarNoProperties(_lista);
+            Lista.Add(tarefa);
+            SalvarNoProperties(Lista);
         }
         public List<Tarefa> Listagem()
         {
