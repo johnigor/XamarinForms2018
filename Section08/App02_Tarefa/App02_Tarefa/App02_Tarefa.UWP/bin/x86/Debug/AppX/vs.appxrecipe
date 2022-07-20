@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-07-18T13:25:08.175</Modified>
+      <Modified>2022-07-20T15:30:35.736</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\bin\x86\Debug\App02_Tarefa.UWP.exe">
       <PackagePath>entrypoint\App02_Tarefa.UWP.exe</PackagePath>
-      <Modified>2022-07-18T13:25:05.856</Modified>
+      <Modified>2022-07-20T15:30:33.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\newtonsoft.json\13.0.1\lib\netstandard2.0\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -68,7 +68,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\bin\Debug\netstandard2.0\App02_Tarefa.dll">
       <PackagePath>App02_Tarefa.dll</PackagePath>
-      <Modified>2022-07-18T13:52:34.107</Modified>
+      <Modified>2022-07-20T15:30:25.964</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -259,11 +259,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-07-18T13:25:05.774</Modified>
+      <Modified>2022-07-20T15:30:33.310</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-07-18T13:25:05.774</Modified>
+      <Modified>2022-07-20T15:30:33.310</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -283,7 +283,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\bin\x86\Debug\Core\App02_Tarefa.UWP.exe">
       <PackagePath>App02_Tarefa.UWP.exe</PackagePath>
-      <Modified>2022-07-18T13:25:08.170</Modified>
+      <Modified>2022-07-20T15:30:35.729</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

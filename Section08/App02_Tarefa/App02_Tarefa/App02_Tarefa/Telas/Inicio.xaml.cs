@@ -1,9 +1,9 @@
 ﻿using App02_Tarefa.Modelos;
 using System;
 using System.Collections.Generic;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using App02_Tarefa.Modelos;
 
 namespace App02_Tarefa.Telas
 {
@@ -27,12 +27,14 @@ namespace App02_Tarefa.Telas
 
             List<Tarefa> lista = new GerenciadorTarefa().Listagem();
 
+            int i = 0;
             foreach (Tarefa tarefa in lista)
             {
-                LinhaStackLayout(tarefa);
+                LinhaStackLayout(tarefa, i);
+                i++;
             }
         }
-        public void LinhaStackLayout(Tarefa tarefa)
+        public void LinhaStackLayout(Tarefa tarefa, int index)
         {
             Image delete = new Image()
             {
@@ -42,6 +44,14 @@ namespace App02_Tarefa.Telas
             delete.Source = Device.RuntimePlatform == Device.UWP
                 ? delete.Source = ImageSource.FromFile("Resources/Delete.png")
                 : delete.Source = ImageSource.FromFile("Delete.png");
+            
+            TapGestureRecognizer deleteTap = new TapGestureRecognizer();
+            deleteTap.Tapped += delegate
+            {
+                new GerenciadorTarefa().Deletar(index);
+                CarregarTarefas();
+            };
+            delete.GestureRecognizers.Add(deleteTap);
 
             Image prioridade = new Image()
             {
@@ -92,6 +102,14 @@ namespace App02_Tarefa.Telas
             check.Source = Device.RuntimePlatform == Device.UWP
                 ? check.Source = ImageSource.FromFile("Resources/CheckOff.png")
                 : check.Source = ImageSource.FromFile("CheckOff.png");
+
+            TapGestureRecognizer checkTap = new TapGestureRecognizer();
+            checkTap.Tapped += delegate
+            {
+                new GerenciadorTarefa().Finalizar(index, tarefa);
+                CarregarTarefas();
+            };
+            check.GestureRecognizers.Add(checkTap);
 
             StackLayout linha = new StackLayout()
             {
