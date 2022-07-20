@@ -68,7 +68,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa\bin\Debug\netstandard2.0\App02_Tarefa.dll">
       <PackagePath>App02_Tarefa.dll</PackagePath>
-      <Modified>2022-07-20T15:30:25.964</Modified>
+      <Modified>2022-07-20T15:39:38.663</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>

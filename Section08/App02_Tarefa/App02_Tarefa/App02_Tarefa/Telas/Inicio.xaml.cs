@@ -103,6 +103,13 @@ namespace App02_Tarefa.Telas
                 ? check.Source = ImageSource.FromFile("Resources/CheckOff.png")
                 : check.Source = ImageSource.FromFile("CheckOff.png");
 
+            if (tarefa.DataFinalizacao != null)
+            {
+                check.Source = Device.RuntimePlatform == Device.UWP
+                ? check.Source = ImageSource.FromFile("Resources/CheckOn.png")
+                : check.Source = ImageSource.FromFile("CheckOn.png");
+            }
+
             TapGestureRecognizer checkTap = new TapGestureRecognizer();
             checkTap.Tapped += delegate
             {
