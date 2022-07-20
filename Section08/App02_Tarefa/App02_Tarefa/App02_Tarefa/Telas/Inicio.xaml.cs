@@ -1,5 +1,6 @@
 ﻿using App02_Tarefa.Modelos;
 using System;
+using System.Globalization;
 using System.Collections.Generic;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -14,6 +15,16 @@ namespace App02_Tarefa.Telas
             InitializeComponent();
 
             DataHoje.Text = DateTime.Now.DayOfWeek.ToString() + ", " + DateTime.Now.ToString("dd:MM");
+
+            /*
+            For Brazilian format use this lines:
+
+            CultureInfo culture = new CultureInfo("pt-BR");
+            string data = DateTime.Now.ToString("dddd, dd {0} MMMM {0} yyyy", culture);
+            string.Format(data, "de");
+
+            */
+
             CarregarTarefas();
         }
         private void GoCadastro(object sender, EventArgs args)

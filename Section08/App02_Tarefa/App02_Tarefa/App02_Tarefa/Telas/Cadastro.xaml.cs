@@ -17,6 +17,9 @@ namespace App02_Tarefa.Telas
         public Cadastro()
         {
             InitializeComponent();
+
+            DataHoje.Text = DateTime.Now.DayOfWeek.ToString() + ", " + DateTime.Now.ToString("dd:MM");
+            
         }
         public void PrioridadeSelectAction(object sender, EventArgs args)
         {
