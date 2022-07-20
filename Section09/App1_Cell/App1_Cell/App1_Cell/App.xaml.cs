@@ -10,7 +10,7 @@ namespace App1_Cell
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Menu.Flyout();
         }
 
         protected override void OnStart()

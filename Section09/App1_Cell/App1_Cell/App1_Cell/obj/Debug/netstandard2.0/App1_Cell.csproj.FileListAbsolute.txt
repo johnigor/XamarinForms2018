@@ -1,0 +1,16 @@
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\bin\Debug\netstandard2.0\App1_Cell.deps.json
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\bin\Debug\netstandard2.0\App1_Cell.dll
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\bin\Debug\netstandard2.0\ref\App1_Cell.dll
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\bin\Debug\netstandard2.0\App1_Cell.pdb
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\App1_Cell.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\App1_Cell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\Menu\Flyout.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\Pagina\TextCellPage.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\App1_Cell.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\App1_Cell.AssemblyInfo.cs
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\App1_Cell.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\App1_Cell.dll
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\ref\App1_Cell.dll
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\App1_Cell.pdb
