@@ -3,7 +3,6 @@ using System;
 using System.Collections.Generic;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using App02_Tarefa.Modelos;
 
 namespace App02_Tarefa.Telas
 {
@@ -59,8 +58,8 @@ namespace App02_Tarefa.Telas
                 Source = ImageSource.FromFile(tarefa.Prioridade + "CheckOff.png")
             };
             prioridade.Source = Device.RuntimePlatform == Device.UWP
-                ? prioridade.Source = ImageSource.FromFile("Resources/" + tarefa.Prioridade + ".png")
-                : prioridade.Source = ImageSource.FromFile(tarefa.Prioridade + ".png");
+                ? prioridade.Source = ImageSource.FromFile("Resources/p" + tarefa.Prioridade + ".png")
+                : prioridade.Source = ImageSource.FromFile("p" + tarefa.Prioridade + ".png");
 
             View stackCentral = null;
             if (tarefa.DataFinalizacao == null)

@@ -31,7 +31,7 @@ namespace App02_Tarefa.Telas
             ((Label)((StackLayout)sender).Children[1]).TextColor = Color.Black;
             FileImageSource source = ((Image)((StackLayout)sender).Children[0]).Source as FileImageSource;
 
-            string prioridade = source.File.ToString().Replace("Resources/", "").Replace(".png", "").Replace("p", "");
+            string prioridade = source.File.ToString().Replace("Resources/p", "").Replace(".png", "").Replace("p", "");
             Priority = byte.Parse(prioridade);
         }
         public void SalvarAction(object sender, EventArgs args)

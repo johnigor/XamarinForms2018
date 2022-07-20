@@ -30,11 +30,11 @@ App.xbf
 App02_Tarefa.UWP.xr.xml
 MainPage.xbf
 Properties\Default.rd.xml
-Resources\1.png
-Resources\2.png
-Resources\3.png
-Resources\4.png
 Resources\AddBotao.png
 Resources\CheckOff.png
 Resources\CheckOn.png
 Resources\Delete.png
+Resources\p1.png
+Resources\p2.png
+Resources\p3.png
+Resources\p4.png

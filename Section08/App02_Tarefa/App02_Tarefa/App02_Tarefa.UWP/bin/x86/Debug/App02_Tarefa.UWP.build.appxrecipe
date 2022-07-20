@@ -169,18 +169,6 @@
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\Resources\1.png">
-      <PackagePath>Resources\1.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\Resources\2.png">
-      <PackagePath>Resources\2.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\Resources\3.png">
-      <PackagePath>Resources\3.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\Resources\4.png">
-      <PackagePath>Resources\4.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\Resources\AddBotao.png">
       <PackagePath>Resources\AddBotao.png</PackagePath>
     </AppxPackagedFile>
@@ -192,6 +180,18 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\Resources\Delete.png">
       <PackagePath>Resources\Delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\Resources\p1.png">
+      <PackagePath>Resources\p1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\Resources\p2.png">
+      <PackagePath>Resources\p2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\Resources\p3.png">
+      <PackagePath>Resources\p3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\Resources\p4.png">
+      <PackagePath>Resources\p4.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
