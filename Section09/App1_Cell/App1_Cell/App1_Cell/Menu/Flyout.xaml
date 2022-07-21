@@ -9,6 +9,7 @@
                 <Button Text="TextCell" Clicked="GoPageText" />
                 <Button Text="ImageCell" Clicked="GoPageImage" />
                 <Button Text="EntryCell" Clicked="GoPageEntry" />
+                <Button Text="SwitchCell" Clicked="GoPageSwitch" />
             </StackLayout>
         </ContentPage>
     </FlyoutPage.Flyout>
