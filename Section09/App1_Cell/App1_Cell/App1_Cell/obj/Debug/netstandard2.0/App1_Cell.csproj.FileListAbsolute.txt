@@ -15,3 +15,4 @@ C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\o
 C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\ref\App1_Cell.dll
 C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\App1_Cell.pdb
 C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\Pagina\ImageCellPage.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\Pagina\EntryCellPage.xaml.g.cs

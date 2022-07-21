@@ -8,6 +8,7 @@
             <StackLayout>
                 <Button Text="TextCell" Clicked="GoPageText" />
                 <Button Text="ImageCell" Clicked="GoPageImage" />
+                <Button Text="EntryCell" Clicked="GoPageEntry" />
             </StackLayout>
         </ContentPage>
     </FlyoutPage.Flyout>
