@@ -5,7 +5,10 @@
              x:Class="App1_Cell.Menu.Flyout">
     <FlyoutPage.Flyout>
         <ContentPage Title="Menu">
-            <Button Text="TextCell" Clicked="GoPage1"/>
+            <StackLayout>
+                <Button Text="TextCell" Clicked="GoPageText" />
+                <Button Text="ImageCell" Clicked="GoPageImage" />
+            </StackLayout>
         </ContentPage>
     </FlyoutPage.Flyout>
     <FlyoutPage.Detail>

@@ -24,7 +24,6 @@ namespace App1_Cell.Pagina
                 new Funcionario(){ Nome = "Felipe", Cargo = "Entregador", },
                 new Funcionario(){ Nome = "João", Cargo = "Vendedor", }
             };
-
             ListaFuncionario.ItemsSource = list;
         }
     }

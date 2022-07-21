@@ -11,9 +11,13 @@ namespace App1_Cell.Menu
         {
             InitializeComponent();
         }
-        public void GoPage1(object sender, EventArgs args)
+        public void GoPageText(object sender, EventArgs args)
         {
             Detail = new NavigationPage(new Pagina.TextCellPage());
+        }
+        public void GoPageImage(object sender, EventArgs args)
+        {
+            Detail = new NavigationPage(new Pagina.ImageCellPage());
         }
     }
 }
