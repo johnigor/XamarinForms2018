@@ -11,6 +11,7 @@
                 <Button Text="EntryCell" Clicked="GoPageEntry" />
                 <Button Text="SwitchCell" Clicked="GoPageSwitch" />
                 <Button Text="ViewCell" Clicked="GoPageView" />
+                <Button Text="ListView" Clicked="GoPageListView" />
             </StackLayout>
         </ContentPage>
     </FlyoutPage.Flyout>
