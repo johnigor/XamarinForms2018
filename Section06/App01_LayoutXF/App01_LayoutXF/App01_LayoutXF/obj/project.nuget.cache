@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "67kvbPFiq4INRFTRKMq2h/9B8Tu/hLjqkeUKwMufLkNu3zZfWJd+11UsoHY3ktJFArEAwtIUORVihJD+tZc65w==",
+  "dgSpecHash": "LGVkYi8qA8wRVFXdIa+jnOEMKM66tuIJB1XKviB/MKMBtsUw4a4y3sENjcHtTmD8R9itdRJJLzGwQySXZ3b2bA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj",
+  "projectFilePath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\John\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\John\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",

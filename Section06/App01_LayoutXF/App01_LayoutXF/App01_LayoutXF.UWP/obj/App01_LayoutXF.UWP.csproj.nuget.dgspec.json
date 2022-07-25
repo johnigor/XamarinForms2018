@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\App01_LayoutXF.UWP.csproj": {}
+    "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\App01_LayoutXF.UWP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\App01_LayoutXF.UWP.csproj": {
+    "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\App01_LayoutXF.UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\App01_LayoutXF.UWP.csproj",
+        "projectUniqueName": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\App01_LayoutXF.UWP.csproj",
         "projectName": "App01_LayoutXF.UWP",
-        "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\App01_LayoutXF.UWP.csproj",
+        "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\App01_LayoutXF.UWP.csproj",
         "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\obj\\",
+        "outputPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -35,8 +35,8 @@
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj": {
-                "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj"
+              "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj": {
+                "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj": {
+    "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj",
+        "projectUniqueName": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj",
         "projectName": "App01_LayoutXF",
-        "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj",
+        "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj",
         "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\obj\\",
+        "outputPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -157,7 +157,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     }

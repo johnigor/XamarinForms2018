@@ -998,11 +998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.iOS\\App01_LayoutXF.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.iOS\\App01_LayoutXF.iOS.csproj",
       "projectName": "App01_LayoutXF.iOS",
-      "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.iOS\\App01_LayoutXF.iOS.csproj",
+      "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.iOS\\App01_LayoutXF.iOS.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.iOS\\obj\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1025,8 +1025,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj": {
-              "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj"
+            "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj": {
+              "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section06\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF\\App01_LayoutXF.csproj"
             }
           }
         }
