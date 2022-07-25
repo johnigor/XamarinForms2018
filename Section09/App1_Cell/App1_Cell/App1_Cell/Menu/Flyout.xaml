@@ -6,11 +6,14 @@
     <FlyoutPage.Flyout>
         <ContentPage Title="Menu">
             <StackLayout>
+                <Label Text="Celulas" />
                 <Button Text="TextCell" Clicked="GoPageText" />
                 <Button Text="ImageCell" Clicked="GoPageImage" />
                 <Button Text="EntryCell" Clicked="GoPageEntry" />
                 <Button Text="SwitchCell" Clicked="GoPageSwitch" />
                 <Button Text="ViewCell" Clicked="GoPageView" />
+
+                <Label Text="Componentes" />
                 <Button Text="ListView" Clicked="GoPageListView" />
             </StackLayout>
         </ContentPage>

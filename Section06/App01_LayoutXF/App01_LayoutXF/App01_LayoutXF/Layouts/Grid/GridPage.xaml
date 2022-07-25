@@ -1,8 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="App01_LayoutXF.Layouts.Grid.GridPage">
-            
+             x:Class="App01_LayoutXF.Layouts.Grid.GridPage"
+             HeightRequest="220"
+             Background="MenuImage.jpg">
+
+    <StackLayout Spacing="0">
+        <Grid ColumnDefinitions="180, Auto, 180" RowDefinitions="70,70,70">
+
+            <Image  Source="MenuImage" 
+                    Opacity="1" 
+                    Aspect="Fill"
+                    Margin="0,0,0,0"
+                    HeightRequest="210"
+                    Grid.RowSpan="5"
+                    Grid.ColumnSpan="3"/>
+
+            <StackLayout Margin="15,0,20,0" Grid.Column="0"  Grid.RowSpan="5" HorizontalOptions="Center" VerticalOptions="Center">
+                <Frame BackgroundColor="Transparent" Grid.Column="0" Grid.Row="0" CornerRadius="95" HeightRequest="110" WidthRequest="130">
+                    <Frame.GestureRecognizers></Frame.GestureRecognizers>
+                    <Image Source="Perfil.png" BackgroundColor="Transparent" Aspect="Fill"/>                    
+                </Frame>
+            </StackLayout>
+            <StackLayout Grid.Column="2" Grid.Row="1" Grid.RowSpan="2" Spacing="0">
+                <Label Text="TxtNome" TextColor="White" FontSize="20" HorizontalTextAlignment="Start" BackgroundColor="Transparent"/>
+                <Label Text="TxtMatricula" TextColor="White" FontSize="16" HorizontalTextAlignment="Start" BackgroundColor="Transparent"/>
+                <Label Text="SOMA" TextColor="White"/>
+            </StackLayout>
+        </Grid>
+    </StackLayout>
+</ContentPage>
+
+
+<!--   
+    
+    Código Microsoft
+    
     <ContentPage.Content>
         <Grid ColumnSpacing="0" RowSpacing="0">
             <Grid.RowDefinitions>
@@ -33,8 +66,8 @@
     </ContentPage.Content>
 </ContentPage>
     
-<!--
-Código Aula
+    
+    Código Aula:
     
     <Grid>
         <Grid.ColumnDefinitions>

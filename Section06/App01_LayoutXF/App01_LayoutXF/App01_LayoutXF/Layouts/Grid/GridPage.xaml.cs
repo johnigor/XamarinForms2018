@@ -16,5 +16,9 @@ namespace App01_LayoutXF.Layouts.Grid
         {
             InitializeComponent();
         }
+
+        private void GoPerfil(object sender, TappedEventArgs args)
+        {
+        }
     }
 }
