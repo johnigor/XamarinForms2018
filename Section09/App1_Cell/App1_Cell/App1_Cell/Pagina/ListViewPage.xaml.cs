@@ -30,5 +30,18 @@ namespace App1_Cell.Pagina
 
             Navigation.PushAsync(new Detail.DetailPage(funcionario));
         }
+
+        private void FeriasAction(object sender, EventArgs args)
+        {
+            MenuItem menuItem = (MenuItem)sender;
+            Funcionario funcionario = (Funcionario)menuItem.CommandParameter;
+
+            DisplayAlert("Título: " + funcionario.Nome, "Mensagem: " + funcionario.Nome + " - " + funcionario.Cargo, "OK");
+        }
+
+        private void AbonoAction(object sender, EventArgs args)
+        {
+
+        }
     }
 }
