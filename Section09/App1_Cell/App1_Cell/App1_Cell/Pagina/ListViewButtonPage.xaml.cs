@@ -7,9 +7,9 @@ using Xamarin.Forms.Xaml;
 namespace App1_Cell.Pagina
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class ListViewPage : ContentPage
+    public partial class ListViewButtonPage : ContentPage
     {
-        public ListViewPage()
+        public ListViewButtonPage()
         {
             InitializeComponent();
 
@@ -24,23 +24,12 @@ namespace App1_Cell.Pagina
             ListaFuncionario.ItemsSource = list;
         }
 
-        private void ItemSelecionadoAction(object sender, SelectedItemChangedEventArgs args)
-        {
-            Funcionario funcionario = (Funcionario)args.SelectedItem;
-
-            Navigation.PushAsync(new Detail.DetailPage(funcionario));
-        }
-
         private void FeriasAction(object sender, EventArgs args)
         {
-            MenuItem menuItem = (MenuItem)sender;
-            Funcionario funcionario = (Funcionario)menuItem.CommandParameter;
+            Button btnFerias = (Button)sender;
+            Funcionario funcionario = (Funcionario)btnFerias.CommandParameter;
 
-            DisplayAlert("Título: " + funcionario.Nome, "Mensagem: " + funcionario.Nome + " - " + funcionario.Cargo, "OK");
-        }
-
-        private void AbonoAction(object sender, EventArgs args)
-        {
+            DisplayAlert("Férias", "Funcionário: " + funcionario.Nome, "OK");
         }
     }
 }

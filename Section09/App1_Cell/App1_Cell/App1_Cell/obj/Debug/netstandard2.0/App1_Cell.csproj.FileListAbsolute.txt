@@ -20,3 +20,4 @@ C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\o
 C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\Pagina\ViewCellPage.xaml.g.cs
 C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\Pagina\Detail\DetailPage.xaml.g.cs
 C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\Pagina\ListViewPage.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section09\App1_Cell\App1_Cell\App1_Cell\obj\Debug\netstandard2.0\Pagina\ListViewButtonPage.xaml.g.cs

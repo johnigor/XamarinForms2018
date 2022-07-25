@@ -15,6 +15,7 @@
 
                 <Label Text="Componentes" />
                 <Button Text="ListView" Clicked="GoPageListView" />
+                <Button Text="ListViewButton" Clicked="GoPageListViewButton" />
             </StackLayout>
         </ContentPage>
     </FlyoutPage.Flyout>
