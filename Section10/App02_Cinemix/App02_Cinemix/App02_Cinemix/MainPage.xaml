@@ -4,9 +4,24 @@
              x:Class="App02_Cinemix.MainPage">
 
     <StackLayout>
-        <StackLayout Spacing="0">
+        <StackLayout Style="{StaticResource Header}">
             <Label Text="CINEMIX" Style="{StaticResource TitleApp}"/>
             <Label Text="seu app de cinema" Style="{StaticResource SubtitleApp}"/>
+        </StackLayout>
+        <StackLayout Style="{StaticResource Body}">
+            <Label Text="Lançamento" Style="{StaticResource Release}" />
+            <Label Text="Pantera Negra" Style="{StaticResource MovieTitle}" />
+
+            <Grid RowDefinitions="Auto, Auto">
+                <Image>
+                    <Image.Source>
+                        <OnPlatform x:TypeArguments="ImageSource">
+                            <On Platform="Android, iOS" Value="Fundo.png"/>
+                            <On Platform="UWP" Value="Resources/Fundo.png"/>
+                        </OnPlatform>
+                    </Image.Source>
+                </Image>
+            </Grid>
         </StackLayout>
     </StackLayout>
 </ContentPage>
