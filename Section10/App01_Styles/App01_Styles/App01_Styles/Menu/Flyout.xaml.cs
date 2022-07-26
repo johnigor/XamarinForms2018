@@ -21,5 +21,10 @@ namespace App01_Styles.Menu
         {
             Detail = new NavigationPage(new Page.ImplicitStylePage());
         }
+        
+        private void GoExplicitStyle(object sender, EventArgs args)
+        {
+            Detail = new NavigationPage(new Page.ExplicitStylePage());
+        }
     }
 }

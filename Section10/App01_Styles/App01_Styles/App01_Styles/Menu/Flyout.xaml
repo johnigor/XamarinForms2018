@@ -7,7 +7,7 @@
         <ContentPage Title="Menu">
             <StackLayout>
                 <Button Text="Implicit Style" Clicked="GoImplicitStyle"/>
-                <Button />
+                <Button Text="Explicit Style" Clicked="GoExplicitStyle"/>
                 <Button />
                 <Button />
             </StackLayout>
