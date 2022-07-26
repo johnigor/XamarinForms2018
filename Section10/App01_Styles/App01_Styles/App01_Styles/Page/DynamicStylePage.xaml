@@ -5,6 +5,14 @@
     <ContentPage.Resources>
         <ResourceDictionary>
             <Color x:Key="LblColor">Green</Color>
+            <Style x:Key="Lbl" TargetType="Label">
+                <Setter Property="BackgroundColor" Value="Black"/>
+                <Setter Property="TextColor" Value="White"/>
+            </Style>
+            <Style x:Key="NewLbl" TargetType="Label">
+                <Setter Property="BackgroundColor" Value="White"/>
+                <Setter Property="TextColor" Value="Black"/>
+            </Style>
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.Content>
@@ -15,6 +23,8 @@
             <Label Text="Welcome to Xamarin.Forms!" TextColor="{DynamicResource LblColor}"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Label Text="Static Label" Style="{StaticResource Lbl}"/>
+            <Label Text="Dynamic Label" Style="{DynamicResource Lbl}"/>
             <Button Text="Mudar Cor" Clicked="MudarCor"/>
         </StackLayout>
     </ContentPage.Content>

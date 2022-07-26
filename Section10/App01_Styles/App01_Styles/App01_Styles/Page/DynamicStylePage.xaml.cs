@@ -19,6 +19,7 @@ namespace App01_Styles.Page
         private void MudarCor(object sender, EventArgs args)
         {
             Resources["LblColor"] = Color.White;
+            Resources["Lbl"] = Resources["NewLbl"];
         }
     }
 }
