@@ -6,7 +6,7 @@
     <FlyoutPage.Flyout>
         <ContentPage Title="Menu">
             <StackLayout>
-                <Button Text="Style" Clicked="GoExample1"/>
+                <Button Text="Implicit Style" Clicked="GoImplicitStyle"/>
                 <Button />
                 <Button />
                 <Button />

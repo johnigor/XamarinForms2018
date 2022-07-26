@@ -17,9 +17,9 @@ namespace App01_Styles.Menu
             InitializeComponent();
         }
 
-        private void GoExample1(object sender, EventArgs args)
+        private void GoImplicitStyle(object sender, EventArgs args)
         {
-
+            Detail = new NavigationPage(new Page.ImplicitStylePage());
         }
     }
 }

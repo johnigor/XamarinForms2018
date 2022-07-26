@@ -10,7 +10,7 @@ namespace App01_Styles
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Menu.Flyout();
         }
 
         protected override void OnStart()
