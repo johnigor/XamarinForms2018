@@ -10,6 +10,7 @@
                 <Button Text="Explicit Style" Clicked="GoExplicitStyle"/>
                 <Button Text="Global Style" Clicked="GoGlobalStyle"/>
                 <Button Text="Inherit Style" Clicked="GoInheritStyle"/>
+                <Button Text="Dynamic Style" Clicked="GoDynamicStyle"/>
             </StackLayout>
         </ContentPage>
     </FlyoutPage.Flyout>

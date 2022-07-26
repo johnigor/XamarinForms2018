@@ -16,7 +16,7 @@ namespace App01_Styles.Menu
         {
             Detail = new NavigationPage(new Page.ImplicitStylePage());
         }
-        
+
         private void GoExplicitStyle(object sender, EventArgs args)
         {
             Detail = new NavigationPage(new Page.ExplicitStylePage());
@@ -28,6 +28,10 @@ namespace App01_Styles.Menu
         private void GoInheritStyle(object sender, EventArgs args)
         {
             Detail = new NavigationPage(new Page.InheritStylePage());
+        }
+        private void GoDynamicStyle(object sender, EventArgs args)
+        {
+            Detail = new NavigationPage(new Page.DynamicStylePage());
         }
     }
 }

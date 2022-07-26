@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\John\Desktop\XamarinForms2018\Section10\App01_Styles\App01_Styles\App01_Styles.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-07-26T18:14:01.740</Modified>
+      <Modified>2022-07-26T18:49:00.489</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section10\App01_Styles\App01_Styles\App01_Styles.UWP\bin\x86\Debug\App01_Styles.UWP.exe">
       <PackagePath>entrypoint\App01_Styles.UWP.exe</PackagePath>
-      <Modified>2022-07-26T18:14:00.142</Modified>
+      <Modified>2022-07-26T18:48:58.865</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -64,7 +64,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section10\App01_Styles\App01_Styles\App01_Styles\bin\Debug\netstandard2.0\App01_Styles.dll">
       <PackagePath>App01_Styles.dll</PackagePath>
-      <Modified>2022-07-26T18:15:51.713</Modified>
+      <Modified>2022-07-26T18:55:51.184</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -223,11 +223,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section10\App01_Styles\App01_Styles\App01_Styles.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-07-26T18:14:00.046</Modified>
+      <Modified>2022-07-26T18:48:58.794</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section10\App01_Styles\App01_Styles\App01_Styles.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-07-26T18:14:00.046</Modified>
+      <Modified>2022-07-26T18:48:58.795</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -247,7 +247,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section10\App01_Styles\App01_Styles\App01_Styles.UWP\bin\x86\Debug\Core\App01_Styles.UWP.exe">
       <PackagePath>App01_Styles.UWP.exe</PackagePath>
-      <Modified>2022-07-26T18:14:01.735</Modified>
+      <Modified>2022-07-26T18:49:00.485</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
