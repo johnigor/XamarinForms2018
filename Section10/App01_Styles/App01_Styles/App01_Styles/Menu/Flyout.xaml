@@ -9,8 +9,7 @@
                 <Button Text="Implicit Style" Clicked="GoImplicitStyle"/>
                 <Button Text="Explicit Style" Clicked="GoExplicitStyle"/>
                 <Button Text="Global Style" Clicked="GoGlobalStyle"/>
-                <Button />
-                <Button />
+                <Button Text="Inherit Style" Clicked="GoInheritStyle"/>
             </StackLayout>
         </ContentPage>
     </FlyoutPage.Flyout>

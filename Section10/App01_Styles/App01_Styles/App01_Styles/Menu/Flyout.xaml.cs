@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -29,6 +24,10 @@ namespace App01_Styles.Menu
         private void GoGlobalStyle(object sender, EventArgs args)
         {
             Detail = new NavigationPage(new Page.GlobalStylePage());
+        }
+        private void GoInheritStyle(object sender, EventArgs args)
+        {
+            Detail = new NavigationPage(new Page.InheritStylePage());
         }
     }
 }
