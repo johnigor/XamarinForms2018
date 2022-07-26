@@ -1,0 +1,15 @@
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\bin\Debug\netstandard2.0\App02_Cinemix.deps.json
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\bin\Debug\netstandard2.0\App02_Cinemix.dll
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\bin\Debug\netstandard2.0\ref\App02_Cinemix.dll
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\bin\Debug\netstandard2.0\App02_Cinemix.pdb
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\obj\Debug\netstandard2.0\App02_Cinemix.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\obj\Debug\netstandard2.0\App02_Cinemix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\obj\Debug\netstandard2.0\App02_Cinemix.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\obj\Debug\netstandard2.0\App02_Cinemix.AssemblyInfo.cs
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\obj\Debug\netstandard2.0\App02_Cinemix.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\obj\Debug\netstandard2.0\App02_Cinemix.dll
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\obj\Debug\netstandard2.0\ref\App02_Cinemix.dll
+C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix\obj\Debug\netstandard2.0\App02_Cinemix.pdb

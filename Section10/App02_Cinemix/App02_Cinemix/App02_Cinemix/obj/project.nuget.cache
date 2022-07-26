@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "t5Q6wXQnkiIkdiC/+pG8KdeahiDKSrk3qvCpYgolht4pqvvQALu2+qC/4xisnh9KL56LgSUxhRJkuyeU9AFUCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section10\\App02_Cinemix\\App02_Cinemix\\App02_Cinemix\\App02_Cinemix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\John\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\John\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\John\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\John\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
