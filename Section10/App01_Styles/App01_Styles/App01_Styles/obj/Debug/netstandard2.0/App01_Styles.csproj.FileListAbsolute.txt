@@ -16,3 +16,4 @@ C:\Users\John\Desktop\XamarinForms2018\Section10\App01_Styles\App01_Styles\App01
 C:\Users\John\Desktop\XamarinForms2018\Section10\App01_Styles\App01_Styles\App01_Styles\obj\Debug\netstandard2.0\ref\App01_Styles.dll
 C:\Users\John\Desktop\XamarinForms2018\Section10\App01_Styles\App01_Styles\App01_Styles\obj\Debug\netstandard2.0\App01_Styles.pdb
 C:\Users\John\Desktop\XamarinForms2018\Section10\App01_Styles\App01_Styles\App01_Styles\obj\Debug\netstandard2.0\Page\ExplicitStylePage.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section10\App01_Styles\App01_Styles\App01_Styles\obj\Debug\netstandard2.0\Page\GlobalStylePage.xaml.g.cs

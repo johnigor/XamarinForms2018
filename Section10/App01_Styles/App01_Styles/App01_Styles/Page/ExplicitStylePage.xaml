@@ -7,7 +7,6 @@
             <Style TargetType="Label">
                 <Setter Property="BackgroundColor" Value="Aquamarine"/>
                 <Setter Property="TextColor" Value="Black"/>
-                <Setter Property="HorizontalOptions" Value="Center"/>
             </Style>
             <Style x:Key="LblStyle" TargetType="Label">
                 <Setter Property="BackgroundColor" Value="MediumOrchid"/>

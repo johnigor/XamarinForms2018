@@ -26,5 +26,9 @@ namespace App01_Styles.Menu
         {
             Detail = new NavigationPage(new Page.ExplicitStylePage());
         }
+        private void GoGlobalStyle(object sender, EventArgs args)
+        {
+            Detail = new NavigationPage(new Page.GlobalStylePage());
+        }
     }
 }
