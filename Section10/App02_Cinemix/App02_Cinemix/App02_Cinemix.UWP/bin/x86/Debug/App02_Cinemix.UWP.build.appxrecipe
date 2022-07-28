@@ -166,14 +166,14 @@
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix.UWP\Resources\Fundo.png">
-      <PackagePath>Resources\Fundo.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix.UWP\Fundo.png">
+      <PackagePath>Fundo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix.UWP\Resources\FundoValor.png">
-      <PackagePath>Resources\FundoValor.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix.UWP\FundoValor.png">
+      <PackagePath>FundoValor.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix.UWP\Resources\Poster.png">
-      <PackagePath>Resources\Poster.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix.UWP\Poster.png">
+      <PackagePath>Poster.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\Section10\App02_Cinemix\App02_Cinemix\App02_Cinemix.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
