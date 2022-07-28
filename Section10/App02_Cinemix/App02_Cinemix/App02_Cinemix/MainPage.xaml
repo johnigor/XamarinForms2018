@@ -48,11 +48,11 @@
                         </StackLayout>
                         <Image Grid.ColumnSpan="2" Source="FundoValor.png" Grid.Row="1" Grid.Column="0" HorizontalOptions="Center" />
                         <StackLayout HorizontalOptions="End" Grid.Row="1" Grid.Column="0" Spacing="0" Padding="10">
-                            <Label Text="MEIA" Style="{StaticResource SubtituloApp}" />
+                            <Label Text="MEIA" Style="{StaticResource SubtituloApp}" FontSize="20"/>
                             <Label Text="R$ 15,00" Style="{StaticResource TituloApp}"/>
                         </StackLayout>
                         <StackLayout HorizontalOptions="Start" Grid.Row="1" Grid.Column="1" Spacing="0" Padding="10">
-                            <Label Text="INTEIRA" Style="{StaticResource SubtituloApp}"/>
+                            <Label Text="INTEIRA" Style="{StaticResource SubtituloApp}" FontSize="20"/>
                             <Label Text="R$ 30,00" Style="{StaticResource TituloApp}"/>
                         </StackLayout>
                     </Grid>
