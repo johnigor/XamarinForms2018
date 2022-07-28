@@ -40,7 +40,16 @@
                 <Setter Property="TextColor" Value="#FFFFFF" />
                 <Setter Property="FontSize" Value="64" />
                 <Setter Property="VerticalOptions" Value="Center" />
-            </Style> 
+            </Style>
+
+            <Style x:Key="Horario" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="#947AC4"/>
+                <Setter Property="WidthRequest" Value="50"/>
+                <Setter Property="HeightRequest" Value="15"/>
+                <Setter Property="BorderColor" Value="Black"/>
+                <Setter Property="CornerRadius" Value="10"/>
+                <Setter Property="HasShadow" Value="True"/>
+            </Style>                    
         </ResourceDictionary>
     </Application.Resources>
 </Application>
