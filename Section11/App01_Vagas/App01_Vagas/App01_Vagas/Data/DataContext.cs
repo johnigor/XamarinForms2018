@@ -6,11 +6,11 @@ using System.Collections.Generic;
 
 namespace App01_Vagas.Data
 {
-    internal class BancoContext
+    internal class DataContext
     {
         private readonly SQLiteConnection _connection;
 
-        public BancoContext()
+        public DataContext()
         {
             var dependencyService = DependencyService.Get<ICaminho>();
             string path = dependencyService.GetPath("Database.Sqlite");
