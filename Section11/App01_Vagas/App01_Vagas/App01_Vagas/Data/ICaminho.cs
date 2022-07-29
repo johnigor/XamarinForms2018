@@ -4,7 +4,7 @@ using System.Text;
 
 namespace App01_Vagas.Data
 {
-    interface ICaminho
+    public interface ICaminho
     {
         string GetPath(string DatabaseName);
     }

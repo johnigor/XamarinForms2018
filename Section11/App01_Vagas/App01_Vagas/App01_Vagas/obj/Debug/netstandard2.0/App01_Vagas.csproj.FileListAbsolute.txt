@@ -1,0 +1,15 @@
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\bin\Debug\netstandard2.0\App01_Vagas.deps.json
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\bin\Debug\netstandard2.0\App01_Vagas.dll
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\bin\Debug\netstandard2.0\App01_Vagas.pdb
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\App01_Vagas.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\App01_Vagas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\App01_Vagas.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\App01_Vagas.AssemblyInfo.cs
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\App01_Vagas.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\App01_Vagas.dll
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\refint\App01_Vagas.dll
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\App01_Vagas.pdb
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\ref\App01_Vagas.dll
