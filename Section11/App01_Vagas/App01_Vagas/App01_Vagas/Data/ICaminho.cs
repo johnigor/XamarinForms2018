@@ -6,6 +6,6 @@ namespace App01_Vagas.Data
 {
     public interface ICaminho
     {
-        string GetPath(string DatabaseName);
+        string GetPath(string databaseName);
     }
 }
