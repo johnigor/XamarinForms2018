@@ -6,7 +6,7 @@ using App01_Vagas.iOS.Data;
 [assembly:Dependency(typeof(PathIOS))]
 namespace App01_Vagas.iOS.Data
 {    
-    internal class PathIOS : ICaminho
+    public class PathIOS : ICaminho
     {
         public string GetPath(string databaseName)
         {
