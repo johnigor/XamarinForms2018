@@ -1,7 +1,13 @@
-﻿namespace App01_Vagas.Models
+﻿using SQLite;
+using System.Collections.Generic;
+
+namespace App01_Vagas.Models
 {
+    [Table("Vagas")]
     internal class Vaga
     {
+        [PrimaryKey, AutoIncrement]
+        public int Id { get; set; }
         public string Cargo { get; set; }
         public short Quantidade { get; set; }
         public string Cidade { get; set; }
