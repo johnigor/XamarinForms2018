@@ -9,6 +9,7 @@ namespace App01_Vagas.Models
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }
         public string Cargo { get; set; }
+        public string Empresa { get; set; }
         public short Quantidade { get; set; }
         public string Cidade { get; set; }
         public double Salario { get; set; }

@@ -4,9 +4,35 @@
              x:Class="App01_Vagas.Pages.ConsultaVagasPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand"/>
+            
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Vagas" FontSize="24"/>
+                <Label Text="encontre seu emprego aqui" FontSize="12"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Adicionar" Clicked="GoCadastro"/>
+                <Button Text="Minhas Vagas" Clicked="GoVagas"/>
+            </StackLayout>
+
+            <ListView>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid ColumnDefinitions="*, 100" RowDefinitions="Auto">
+                            <Label Grid.Column="0" Text="{Binding Cargo}" FontAttributes="Bold"/>
+                            <Label Grid.Column="0" Text="{Binding Empresa}"/>
+                            <Label Grid.Column="0" Text="{Binding Cidade}"/>
+
+                            <Label Text="+Detalhe">
+                                <Label.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="MaisDetalhes" CommandParameter="{Binding .}"/>
+                                </Label.GestureRecognizers>
+                            </Label>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
