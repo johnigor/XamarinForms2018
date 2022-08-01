@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G0PuxhBnnUEXyZS8XTVwLntzcY01xs7cW2xlcxBcHFnUYf6vcDrx5P+LgMqYDoGYTu4sMluBC+Dy9tpXW9DCCQ==",
+  "dgSpecHash": "3tIpQ88dr4nvCiY2GEsGa560DJaZQk10qPB/sjcJblCTiybsM26EwvB0e0buUGmtpVocy1IbzeTJz0yDBR/9Yw==",
   "success": true,
   "projectFilePath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\Section11\\App01_Vagas\\App01_Vagas\\App01_Vagas.UWP\\App01_Vagas.UWP.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\John\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\John\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\John\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\John\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\John\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\John\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\John\\.nuget\\packages\\win2d.uwp\\1.20.0\\win2d.uwp.1.20.0.nupkg.sha512",
