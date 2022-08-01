@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using App01_Vagas.Data;
 using App01_Vagas.Models;
 using Xamarin.Forms;
@@ -9,12 +11,16 @@ namespace App01_Vagas.Pages
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ConsultaVagasPage : ContentPage
     {
+        internal List<Vaga> Vagas { get; set; } 
         public ConsultaVagasPage()
         {
             InitializeComponent();
 
             DataContext database = new DataContext();
-            ListaVagas.ItemsSource = database.Consultar();
+            Vagas = database.Consultar();
+            ListaVagas.ItemsSource = Vagas;
+
+            lblCount.Text = Vagas.Count.ToString();
         }
 
         private void GoCadastro(object sender, EventArgs args)
@@ -33,6 +39,11 @@ namespace App01_Vagas.Pages
             TapGestureRecognizer tapGest = (TapGestureRecognizer)lblDetalhes.GestureRecognizers[0];
             Vaga vaga = tapGest.CommandParameter as Vaga;
             Navigation.PushAsync(new DetalhesVagaPage(vaga));
+        }
+
+        private void PesquisarAction(object sender, TextChangedEventArgs args)
+        {
+            ListaVagas.ItemsSource = Vagas.Where(x => x.Cargo.Contains(args.NewTextValue)).ToList();
         }
     }
 }
