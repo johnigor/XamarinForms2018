@@ -11,7 +11,7 @@ namespace App01_Vagas.Pages
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ConsultaVagasPage : ContentPage
     {
-        internal List<Vaga> Vagas { get; set; } 
+        List<Vaga> Vagas { get; set; }
         public ConsultaVagasPage()
         {
             InitializeComponent();
