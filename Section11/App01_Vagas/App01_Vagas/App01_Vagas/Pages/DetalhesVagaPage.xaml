@@ -12,7 +12,7 @@
             <Label Text="{Binding Descricao}"/>
             <Label Text="{Binding TipoContratacao}"/>
             <Label Text="{Binding Telefone}"/>
-            <Label Text="{Binding Email}"/>            
+            <Label Text="{Binding Email}"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
