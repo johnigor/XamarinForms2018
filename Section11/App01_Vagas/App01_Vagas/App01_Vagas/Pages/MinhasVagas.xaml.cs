@@ -8,10 +8,10 @@ using Xamarin.Forms.Xaml;
 namespace App01_Vagas.Pages
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class VagasDisponiveisPage : ContentPage
+    public partial class MinhasVagas : ContentPage
     {
         List<Vaga> Vagas { get; set; }
-        public VagasDisponiveisPage()
+        public MinhasVagas()
         {
             InitializeComponent();
             ConsultarVagas();
@@ -32,7 +32,7 @@ namespace App01_Vagas.Pages
             TapGestureRecognizer tapGest = (TapGestureRecognizer)lblEditar.GestureRecognizers[0];
             Vaga vaga = tapGest.CommandParameter as Vaga;
 
-            Navigation.PushAsync(new CadastroVagaPage());
+            Navigation.PushAsync(new EditarVagaPage(vaga));
 
         }
 

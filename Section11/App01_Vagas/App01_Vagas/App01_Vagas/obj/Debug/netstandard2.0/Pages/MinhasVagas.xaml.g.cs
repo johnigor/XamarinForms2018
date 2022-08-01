@@ -8,13 +8,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App01_Vagas.Pages.MinhasVagas.xaml", "Pages/MinhasVagas.xaml", typeof(global::App01_Vagas.Pages.VagasDisponiveisPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App01_Vagas.Pages.MinhasVagas.xaml", "Pages/MinhasVagas.xaml", typeof(global::App01_Vagas.Pages.MinhasVagas))]
 
 namespace App01_Vagas.Pages {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Pages\\MinhasVagas.xaml")]
-    public partial class VagasDisponiveisPage : global::Xamarin.Forms.ContentPage {
+    public partial class MinhasVagas : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.Label lblCount;
@@ -24,7 +24,7 @@ namespace App01_Vagas.Pages {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(VagasDisponiveisPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MinhasVagas));
             lblCount = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "lblCount");
             ListaVagas = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ListView>(this, "ListaVagas");
         }

@@ -30,7 +30,7 @@ namespace App01_Vagas.Pages
 
         private void GoVagas(object sender, EventArgs args)
         {
-            Navigation.PushAsync(new VagasDisponiveisPage());
+            Navigation.PushAsync(new MinhasVagas());
         }
 
         private void MaisDetalhes(object sender, EventArgs args)
