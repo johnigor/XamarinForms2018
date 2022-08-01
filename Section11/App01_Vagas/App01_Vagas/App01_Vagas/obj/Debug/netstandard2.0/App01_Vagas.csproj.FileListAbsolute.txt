@@ -16,4 +16,4 @@ C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_V
 C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\Pages\CadastroVagaPage.xaml.g.cs
 C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\Pages\ConsultaVagasPage.xaml.g.cs
 C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\Pages\DetalhesVagaPage.xaml.g.cs
-C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\Pages\VagasDisponiveisPage.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\Pages\MinhasVagas.xaml.g.cs

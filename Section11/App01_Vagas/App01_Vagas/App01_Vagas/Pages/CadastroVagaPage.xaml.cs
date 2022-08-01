@@ -29,9 +29,8 @@ namespace App01_Vagas.Pages
                         
             DataContext database = new DataContext();
             database.Cadastrar(vaga);
-            
-            //ToDo - voltar para a tela de pesquisa
-            Navigation.PopAsync();
+
+            Application.Current.MainPage = new NavigationPage(new ConsultaVagasPage());
         }
     }
 }

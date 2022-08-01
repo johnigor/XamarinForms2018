@@ -9,6 +9,8 @@
             <Entry x:Name="Quantidade" Placeholder="Quantidade"/>
             <Entry x:Name="Cidade" Placeholder="Cidade"/>
             <Entry x:Name="Salario" Placeholder="Salário"/>
+
+            <Label Text="Descrição do Cargo"/>
             <Editor x:Name="Descricao" HeightRequest="200"/>
             <StackLayout Orientation="Horizontal">
                 <Label Text="Tipo de contratação"/>

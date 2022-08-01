@@ -1,0 +1,1 @@
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas.UWP\App01_Vagas.UWP.csproj;x64

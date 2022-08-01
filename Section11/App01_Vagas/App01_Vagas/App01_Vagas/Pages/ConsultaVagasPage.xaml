@@ -3,40 +3,45 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App01_Vagas.Pages.ConsultaVagasPage">
     <ContentPage.Content>
-        <StackLayout>            
+        <StackLayout>
             <StackLayout Orientation="Horizontal">
-                <Label Text="Vagas" FontSize="24"/>
-                <Label Text="encontre seu emprego aqui" FontSize="12"/>
+                <Label Text="Vagas" FontSize="24" />
+                <Label Text="encontre seu emprego aqui" FontSize="12" />
             </StackLayout>
             <StackLayout Orientation="Horizontal">
-                <Button Text="Adicionar" Clicked="GoCadastro"/>
-                <Button Text="Minhas Vagas" Clicked="GoVagas"/>
+                <Button Text="Adicionar" Clicked="GoCadastro" />
+                <Button Text="Minhas Vagas" Clicked="GoVagas" />
             </StackLayout>
             <Entry Placeholder="Pesquisar"/>
-            <Label Text="Vagas encontradas:"/>
-            <ListView>
+            <Label Text="" x:Name="lblCount"/>
+            <ListView x:Name="ListaVagas" HasUnevenRows="True">
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                        <Grid ColumnDefinitions="*, 100" RowDefinitions="Auto">
-                            <Label Grid.Column="0" Text="{Binding Cargo}" FontAttributes="Bold"/>
-                            <Label Grid.Column="0" Text="{Binding Empresa}"/>
-                            <Label Grid.Column="0" Text="{Binding Cidade}"/>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="100" />
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <StackLayout Grid.Column="0">
+                                    <Label  Text="{Binding Cargo}" FontAttributes="Bold" />
+                                    <Label  Text="{Binding Empresa}" />
+                                    <Label  Text="{Binding Cidade}" />
+                                </StackLayout>
 
-                            <Label Text="Editar" Grid.Column="1">
-                                <Label.GestureRecognizers>
-                                    <TapGestureRecognizer Tapped="EditarAction" CommandParameter="{Binding .}"/>
-                                </Label.GestureRecognizers>
-                            </Label>
-                            <Label Text="|"/>
-                            <Label Text="Excluir" Grid.Column="1">
-                                <Label.GestureRecognizers>
-                                    <TapGestureRecognizer Tapped="ExcluirAction" CommandParameter="{Binding .}"/>
-                                </Label.GestureRecognizers>
-                            </Label>
-                        </Grid>
+                                <Label Text="+Detalhe"  Grid.Column="1">
+                                    <Label.GestureRecognizers>
+                                        <TapGestureRecognizer Tapped="MaisDetalhes" CommandParameter="{Binding .}" />
+                                    </Label.GestureRecognizers>
+                                </Label>
+                            </Grid>
+                        </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>
-            </ListView>            
+            </ListView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

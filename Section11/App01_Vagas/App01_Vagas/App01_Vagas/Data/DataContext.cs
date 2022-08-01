@@ -19,7 +19,7 @@ namespace App01_Vagas.Data
             _connection.CreateTable<Vaga>();
         }
 
-        public List<Vaga> Consultar(Vaga vaga)
+        public List<Vaga> Consultar()
         {
             return _connection.Table<Vaga>().ToList();
         }
