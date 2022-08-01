@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace App01_Vagas.Models
 {
     [Table("Vagas")]
-    internal class Vaga
+    public class Vaga
     {
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }

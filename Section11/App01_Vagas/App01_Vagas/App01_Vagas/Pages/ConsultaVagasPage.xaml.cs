@@ -15,6 +15,6 @@ namespace App01_Vagas.Pages
         public ConsultaVagasPage()
         {
             InitializeComponent();
-        }
+        }        
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas.UWP\obj\x64\Debug\App01_Vagas.UWP.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas.UWP\obj\x64\Debug\App.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas.UWP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas.UWP\obj\x64\Debug\MainPage.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas.UWP\obj\x64\Debug\App.xaml
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas.UWP\obj\x64\Debug\MainPage.xaml
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas.UWP\obj\x64\Debug\App.xbf
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas.UWP\obj\x64\Debug\MainPage.xbf
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas.UWP\obj\x64\Debug\XamlSaveStateFile.xml
