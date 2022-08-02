@@ -14,7 +14,7 @@
                 <Label Text="200" FontSize="50" HorizontalOptions="CenterAndExpand"/>
                 <Label Text="seg" HorizontalOptions="CenterAndExpand"/>
                 <StackLayout Orientation="Horizontal">
-                    <Button Text="Acertou" BackgroundColor="LightGreen"/>
+                    <Button Text="Acertou" BackgroundColor="LimeGreen"/>
                     <Button Text="Errou" BackgroundColor="Red"/>
                 </StackLayout>
             </StackLayout>
