@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using App01_Vagas.Data;
 using App01_Vagas.Models;
 using Xamarin.Forms;
@@ -46,6 +47,11 @@ namespace App01_Vagas.Pages
             database.Excluir(vaga);
 
             ConsultarVagas();
+        }
+
+        private void PesquisarAction(object sender, TextChangedEventArgs args)
+        {
+            ListaVagas.ItemsSource = Vagas.Where(x => x.Cargo.Contains(args.NewTextValue)).ToList();
         }
     }
 }

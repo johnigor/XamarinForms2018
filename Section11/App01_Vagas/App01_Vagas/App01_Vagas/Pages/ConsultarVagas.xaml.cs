@@ -9,13 +9,17 @@ using Xamarin.Forms.Xaml;
 namespace App01_Vagas.Pages
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class ConsultaVagasPage : ContentPage
+    public partial class ConsultarVagas : ContentPage
     {
         List<Vaga> Vagas { get; set; }
-        public ConsultaVagasPage()
+        public ConsultarVagas()
         {
             InitializeComponent();
+            Consultar();
+        }
 
+        public void Consultar()
+        {
             DataContext database = new DataContext();
             Vagas = database.Consultar();
             ListaVagas.ItemsSource = Vagas;
@@ -25,7 +29,7 @@ namespace App01_Vagas.Pages
 
         private void GoCadastro(object sender, EventArgs args)
         {
-            Navigation.PushAsync(new CadastroVagaPage());
+            Navigation.PushAsync(new CadastrarVaga());
         }
 
         private void GoVagas(object sender, EventArgs args)
@@ -38,7 +42,7 @@ namespace App01_Vagas.Pages
             Label lblDetalhes = (Label)sender;
             TapGestureRecognizer tapGest = (TapGestureRecognizer)lblDetalhes.GestureRecognizers[0];
             Vaga vaga = tapGest.CommandParameter as Vaga;
-            Navigation.PushAsync(new DetalhesVagaPage(vaga));
+            Navigation.PushAsync(new DetalharVaga(vaga));
         }
 
         private void PesquisarAction(object sender, TextChangedEventArgs args)

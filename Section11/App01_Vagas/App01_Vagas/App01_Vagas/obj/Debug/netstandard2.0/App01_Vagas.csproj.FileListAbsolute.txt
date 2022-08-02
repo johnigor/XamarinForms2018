@@ -13,8 +13,8 @@ C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_V
 C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\refint\App01_Vagas.dll
 C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\App01_Vagas.pdb
 C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\ref\App01_Vagas.dll
-C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\Pages\CadastroVagaPage.xaml.g.cs
-C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\Pages\ConsultaVagasPage.xaml.g.cs
-C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\Pages\DetalhesVagaPage.xaml.g.cs
 C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\Pages\MinhasVagas.xaml.g.cs
 C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\Pages\EditarVagaPage.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\Pages\CadastrarVaga.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\Pages\ConsultarVagas.xaml.g.cs
+C:\Users\John\Desktop\XamarinForms2018\Section11\App01_Vagas\App01_Vagas\App01_Vagas\obj\Debug\netstandard2.0\Pages\DetalharVaga.xaml.g.cs

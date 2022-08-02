@@ -42,7 +42,7 @@ namespace App01_Vagas.Pages
             DataContext database = new DataContext();
             database.Atualizar(vaga);
 
-            Application.Current.MainPage = new NavigationPage(new ConsultaVagasPage());
+            Application.Current.MainPage = new NavigationPage(new ConsultarVagas());
         }
     }
 }

@@ -7,9 +7,9 @@ using App01_Vagas.Models;
 namespace App01_Vagas.Pages
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class CadastroVagaPage : ContentPage
+    public partial class CadastrarVaga : ContentPage
     {
-        public CadastroVagaPage()
+        public CadastrarVaga()
         {
             InitializeComponent();
         }
@@ -30,7 +30,7 @@ namespace App01_Vagas.Pages
             DataContext database = new DataContext();
             database.Cadastrar(vaga);
 
-            Application.Current.MainPage = new NavigationPage(new ConsultaVagasPage());
+            Application.Current.MainPage = new NavigationPage(new ConsultarVagas());
         }
     }
 }

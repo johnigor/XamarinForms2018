@@ -3,13 +3,16 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App01_Vagas.Pages.MinhasVagas">
     <ContentPage.Content>
-        <StackLayout>
+        <StackLayout Margin="5">
             <StackLayout Orientation="Horizontal">
                 <Label Text="Vagas" FontSize="24" />
                 <Label Text="encontre seu emprego aqui" FontSize="12" />
             </StackLayout>
-            <Entry Placeholder="Pesquisar"/>
-            <Label Text="" x:Name="lblCount" />
+            <Entry Placeholder="Pesquisar" TextChanged="PesquisarAction"/>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Vagas disponíveis: "/>
+                <Label Text="" x:Name="lblCount" />
+            </StackLayout>
             <ListView x:Name="ListaVagas" HasUnevenRows="True">
                 <ListView.ItemTemplate>
                     <DataTemplate>

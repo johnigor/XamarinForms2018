@@ -8,13 +8,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App01_Vagas.Pages.CadastroVagaPage.xaml", "Pages/CadastroVagaPage.xaml", typeof(global::App01_Vagas.Pages.CadastroVagaPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App01_Vagas.Pages.CadastrarVaga.xaml", "Pages/CadastrarVaga.xaml", typeof(global::App01_Vagas.Pages.CadastrarVaga))]
 
 namespace App01_Vagas.Pages {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Pages\\CadastroVagaPage.xaml")]
-    public partial class CadastroVagaPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Pages\\CadastrarVaga.xaml")]
+    public partial class CadastrarVaga : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.Entry Cargo;
@@ -45,7 +45,7 @@ namespace App01_Vagas.Pages {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(CadastroVagaPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(CadastrarVaga));
             Cargo = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "Cargo");
             Empresa = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "Empresa");
             Quantidade = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "Quantidade");

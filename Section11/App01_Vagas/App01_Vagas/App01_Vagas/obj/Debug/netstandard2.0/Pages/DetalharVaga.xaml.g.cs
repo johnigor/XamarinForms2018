@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App01_Vagas.Pages.DetalhesVagaPage.xaml", "Pages/DetalhesVagaPage.xaml", typeof(global::App01_Vagas.Pages.DetalhesVagaPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App01_Vagas.Pages.DetalharVaga.xaml", "Pages/DetalharVaga.xaml", typeof(global::App01_Vagas.Pages.DetalharVaga))]
 
 namespace App01_Vagas.Pages {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Pages\\DetalhesVagaPage.xaml")]
-    public partial class DetalhesVagaPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Pages\\DetalharVaga.xaml")]
+    public partial class DetalharVaga : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(DetalhesVagaPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(DetalharVaga));
         }
     }
 }

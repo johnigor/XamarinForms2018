@@ -18,19 +18,28 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="Pages\CadastrarVaga.xaml.cs">
+      <DependentUpon>CadastrarVaga.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\ConsultarVagas.xaml.cs">
+      <DependentUpon>ConsultarVagas.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Pages\DetalharVaga.xaml.cs">
+      <DependentUpon>DetalharVaga.xaml</DependentUpon>
+    </Compile>
     <Compile Update="Pages\MinhasVagas.xaml.cs">
       <DependentUpon>MinhasVagas.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Pages\CadastroVagaPage.xaml">
+    <EmbeddedResource Update="Pages\CadastrarVaga.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Pages\ConsultaVagasPage.xaml">
+    <EmbeddedResource Update="Pages\ConsultarVagas.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Pages\DetalhesVagaPage.xaml">
+    <EmbeddedResource Update="Pages\DetalharVaga.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Pages\EditarVagaPage.xaml">
