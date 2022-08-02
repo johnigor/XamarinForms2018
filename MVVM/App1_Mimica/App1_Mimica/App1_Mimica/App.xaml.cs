@@ -1,6 +1,5 @@
-﻿using System;
+﻿using App1_Mimica.View;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace App1_Mimica
 {
@@ -10,7 +9,7 @@ namespace App1_Mimica
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Jogar();
         }
 
         protected override void OnStart()

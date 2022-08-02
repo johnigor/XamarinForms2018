@@ -3,6 +3,20 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App1_Mimica.App">
     <Application.Resources>
-
+        <ResourceDictionary>
+            <Style TargetType="Label" x:Key="LblInicio">
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="FontSize" Value="14"/>
+                <Setter Property="TextColor" Value="Black"/>
+            </Style>
+            <Style TargetType="Entry" x:Key="EntryInicio">
+                <Setter Property="HeightRequest" Value="40"/>
+            </Style>
+            <Style TargetType="Button" x:Key="Botao">
+                <Setter Property="BackgroundColor" Value="Black"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="WidthRequest" Value="25"/>
+            </Style>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

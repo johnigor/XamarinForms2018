@@ -4,9 +4,20 @@
              x:Class="App1_Mimica.View.Jogar">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <StackLayout>
+                <Label Text="Grupo"/>
+                <Label Text="Palavra - Pontuação"/>
+                <Label Text="************" HorizontalOptions="CenterAndExpand"/>
+                <Button Text="Mostrar" Style="{StaticResource Botao}"/>
+            </StackLayout>
+            <StackLayout>
+                <Label Text="200" FontSize="50" HorizontalOptions="CenterAndExpand"/>
+                <Label Text="seg" HorizontalOptions="CenterAndExpand"/>
+                <StackLayout Orientation="Horizontal">
+                    <Button Text="Acertou" BackgroundColor="LightGreen"/>
+                    <Button Text="Errou" BackgroundColor="Red"/>
+                </StackLayout>
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
