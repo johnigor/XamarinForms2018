@@ -10,11 +10,13 @@ using Xamarin.Forms.Xaml;
 namespace App1_Mimica.View
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Jogar : ContentPage
+    public partial class Jogo : ContentPage
     {
-        public Jogar()
+        public Jogo()
         {
             InitializeComponent();
+
+            BindingContext = new ViewModel.JogoViewModel();
         }
     }
 }

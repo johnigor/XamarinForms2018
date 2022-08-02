@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-08-02T19:10:27.866</Modified>
+      <Modified>2022-08-02T20:55:38.334</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.UWP.exe">
       <PackagePath>entrypoint\App1_Mimica.UWP.exe</PackagePath>
-      <Modified>2022-08-02T19:10:26.495</Modified>
+      <Modified>2022-08-02T20:55:37.328</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -64,7 +64,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\bin\Debug\netstandard2.0\App1_Mimica.dll">
       <PackagePath>App1_Mimica.dll</PackagePath>
-      <Modified>2022-08-02T19:10:19.436</Modified>
+      <Modified>2022-08-02T20:57:11.255</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -223,11 +223,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-08-02T19:10:26.386</Modified>
+      <Modified>2022-08-02T20:55:37.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-08-02T19:10:26.386</Modified>
+      <Modified>2022-08-02T20:55:37.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -247,7 +247,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Core\App1_Mimica.UWP.exe">
       <PackagePath>App1_Mimica.UWP.exe</PackagePath>
-      <Modified>2022-08-02T19:10:27.856</Modified>
+      <Modified>2022-08-02T20:55:38.329</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

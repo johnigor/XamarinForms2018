@@ -20,7 +20,7 @@ namespace App1_Mimica.ViewModel
             Armazenamento.Partida = this.Partida;
             Armazenamento.RodadaAtual = 1;
 
-            Application.Current.MainPage = new View.Jogar();
+            Application.Current.MainPage = new View.Jogo();
         }
 
         public event PropertyChangedEventHandler PropertyChanged;

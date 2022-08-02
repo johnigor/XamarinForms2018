@@ -22,7 +22,6 @@ C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\bin\Debug\ne
 C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\obj\Debug\netstandard2.0\App1_Mimica.GeneratedMSBuildEditorConfig.editorconfig
 C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\obj\Debug\netstandard2.0\View\Inicio.xaml.g.cs
-C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\obj\Debug\netstandard2.0\View\Jogar.xaml.g.cs
 C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\obj\Debug\netstandard2.0\View\Resultado.xaml.g.cs
 C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\obj\Debug\netstandard2.0\App1_Mimica.AssemblyInfoInputs.cache
 C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\obj\Debug\netstandard2.0\App1_Mimica.AssemblyInfo.cs
@@ -32,3 +31,4 @@ C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\obj\Debug\ne
 C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\obj\Debug\netstandard2.0\ref\App1_Mimica.dll
 C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\obj\Debug\netstandard2.0\App1_Mimica.pdb
 C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\obj\Debug\netstandard2.0\App1_Mimica.csproj.AssemblyReference.cache
+C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\obj\Debug\netstandard2.0\View\Jogo.xaml.g.cs
