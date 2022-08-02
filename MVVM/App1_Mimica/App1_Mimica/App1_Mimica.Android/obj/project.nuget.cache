@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rXOSgW61av06d3NpVumcsndULM1rO5oYP3/AWWZhtk6UZ3mK4I+iCg3zuU5zA7VMc0G1cpl/GEo0JeJMxCZalA==",
+  "dgSpecHash": "RCi1yg32oSK5f+4d9ly7OfTq7kvxVcepwDdBeSjYDQLKRUpcREhmVpi23pzMK8HrIalR7aSAGfJQhb15i9iATw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica.Android\\App1_Mimica.Android.csproj",
+  "projectFilePath": "C:\\GitHub\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica.Android\\App1_Mimica.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\John\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

@@ -1,1 +1,1 @@
-C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\App1_Mimica.UWP.csproj;x86
+C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\App1_Mimica.UWP.csproj;x86

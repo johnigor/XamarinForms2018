@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3RcATegdk6AKoeMUbrd6L257X6LrqrSKm4UYxy5RzcUrv4Ghtw4cFbHiFm71nmSL8xVHDfDQ+uoIbhkPy0I9TQ==",
+  "dgSpecHash": "wgxy7EdbyQB8lwcMepupX2ty1uLTm4PfcQ+Neo1DU32yEw7uKGhwG13fPoauzUQTcQRVvx+POOC/zlvhbvelsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica.UWP\\App1_Mimica.UWP.csproj",
+  "projectFilePath": "C:\\GitHub\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica.UWP\\App1_Mimica.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\John\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Users\\John\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",

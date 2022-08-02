@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cHdiDqoWfUYoziXAagUCVXZ4bUv83I+9bhsXH2UEhSPjEadyAXhrtz0kfdOpbCkyD5nuXPgCaODUrOnjH+KLDw==",
+  "dgSpecHash": "cTtppfnHxvf1xX1gqMTuD36ful9Y7L47MXrCArunFpSVbjTeU5XdscwrzecGKPAShWXVRsAX4z7zdJ1vOABKWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica\\App1_Mimica.csproj",
+  "projectFilePath": "C:\\GitHub\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica\\App1_Mimica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\John\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

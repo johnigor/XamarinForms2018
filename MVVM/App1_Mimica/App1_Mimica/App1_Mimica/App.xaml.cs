@@ -9,7 +9,7 @@ namespace App1_Mimica
         {
             InitializeComponent();
 
-            MainPage = new Resultado();
+            MainPage = new Inicio();
         }
 
         protected override void OnStart()

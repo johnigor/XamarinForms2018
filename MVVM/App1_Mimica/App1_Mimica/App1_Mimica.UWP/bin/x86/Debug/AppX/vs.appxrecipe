@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=f1b3b538-a6eb-44a1-a534-8edef9d05cbd</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>757BEC5F20CDDFBBAA0DFE2976245489535FD49A6034FBBEC276B220BF073DA2</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>6744bb6f-8e56-401b-a657-f1cea65bd045_1.0.0.0_x86__9dj5k56ng94pc</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>6744bb6f-8e56-401b-a657-f1cea65bd045_9dj5k56ng94pc!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-08-02T14:44:40.279</Modified>
+      <Modified>2022-08-02T19:10:27.866</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.UWP.exe">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.UWP.exe">
       <PackagePath>entrypoint\App1_Mimica.UWP.exe</PackagePath>
-      <Modified>2022-08-02T14:44:36.419</Modified>
+      <Modified>2022-08-02T19:10:26.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -62,9 +62,9 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2021-02-12T13:39:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\bin\Debug\netstandard2.0\App1_Mimica.dll">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica\bin\Debug\netstandard2.0\App1_Mimica.dll">
       <PackagePath>App1_Mimica.dll</PackagePath>
-      <Modified>2022-08-02T16:54:56.946</Modified>
+      <Modified>2022-08-02T19:10:19.436</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\John\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -78,156 +78,156 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2021-02-12T04:08:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.288</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.290</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.293</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.295</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.304</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.306</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.308</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.314</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.316</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.321</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.323</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.325</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.328</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.330</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.332</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.334</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.337</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.339</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.343</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.345</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.347</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-08-02T14:14:13.351</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2022-08-02T14:14:13.354</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App1_Mimica.UWP.xr.xml">
       <PackagePath>App1_Mimica.UWP.xr.xml</PackagePath>
       <Modified>2022-08-02T14:44:36.288</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-08-02T14:44:36.342</Modified>
+      <Modified>2022-08-02T19:10:26.386</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-08-02T14:44:36.342</Modified>
+      <Modified>2022-08-02T19:10:26.386</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -241,13 +241,13 @@
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2020-07-10T00:07:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-08-02T14:44:37.474</Modified>
+      <Modified>2022-08-02T18:10:50.982</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\John\Desktop\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Core\App1_Mimica.UWP.exe">
+    <AppxPackagedFile Include="C:\GitHub\XamarinForms2018\MVVM\App1_Mimica\App1_Mimica\App1_Mimica.UWP\bin\x86\Debug\Core\App1_Mimica.UWP.exe">
       <PackagePath>App1_Mimica.UWP.exe</PackagePath>
-      <Modified>2022-08-02T14:44:40.273</Modified>
+      <Modified>2022-08-02T19:10:27.856</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

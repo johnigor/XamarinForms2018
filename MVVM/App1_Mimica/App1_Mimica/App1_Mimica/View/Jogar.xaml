@@ -4,18 +4,38 @@
              x:Class="App1_Mimica.View.Jogar">
     <ContentPage.Content>
         <StackLayout>
-            <StackLayout>
-                <Label Text="Grupo"/>
-                <Label Text="Palavra - Pontuação"/>
-                <Label Text="************" HorizontalOptions="CenterAndExpand"/>
-                <Button Text="Mostrar" Style="{StaticResource Botao}"/>
+            <StackLayout BackgroundColor="Gray" HeightRequest="50">
+                <Label Text="Jogo de Mímica" TextColor="White" HorizontalOptions="Center" Margin="0,10,0,0" FontSize="18" FontAttributes="Bold"/>
+            </StackLayout>
+            <StackLayout Margin="15,5,15,5">
+                <Frame BorderColor="Black">
+                    <StackLayout>
+                        <Label Text="Grupo: (Nome do grupo)" FontSize="20" Margin="0,-10,0,0"/>
+                        <Label Text="Palavra - Pontuação" HorizontalOptions="Center" FontSize="20"/>
+                        <Label Text="************" HorizontalOptions="CenterAndExpand" FontSize="25"/>
+                        <Button Text="Mostrar" WidthRequest="125" Style="{StaticResource Botao}" HorizontalOptions="Center"/>
+                    </StackLayout>
+                </Frame>                
             </StackLayout>
             <StackLayout>
-                <Label Text="200" FontSize="50" HorizontalOptions="CenterAndExpand"/>
-                <Label Text="seg" HorizontalOptions="CenterAndExpand"/>
-                <StackLayout Orientation="Horizontal">
-                    <Button Text="Acertou" BackgroundColor="LimeGreen"/>
-                    <Button Text="Errou" BackgroundColor="Red"/>
+                <StackLayout Spacing="0" Margin="15" BackgroundColor="LightCyan">
+                    <Frame BorderColor="Black">
+                        <StackLayout>
+                            <Label Text="200" FontSize="50" HorizontalOptions="CenterAndExpand"/>
+                            <Label Text="seg" HorizontalOptions="CenterAndExpand"/>
+                        </StackLayout>
+                    </Frame>                    
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Spacing="120" Margin="50,20,50,20">
+                    <Frame BorderColor="Black" HeightRequest="50" BackgroundColor="LimeGreen">
+                        <Button Text="Acertou" FontSize="20" BackgroundColor="LimeGreen" HeightRequest="50" WidthRequest="100"/>
+                    </Frame>
+                    <Frame BorderColor="Black" HeightRequest="50" BackgroundColor="Red">
+                        <Button Text="Errou" FontSize="20" BackgroundColor="Red" HeightRequest="50" WidthRequest="100"/>
+                    </Frame>
+                </StackLayout>
+                <StackLayout Margin="0,20,0,0">
+                    <Button Text="Iniciar" Style="{StaticResource Botao}" HorizontalOptions="Center" WidthRequest="400" HeightRequest="50" FontSize="20"/>
                 </StackLayout>
             </StackLayout>
         </StackLayout>

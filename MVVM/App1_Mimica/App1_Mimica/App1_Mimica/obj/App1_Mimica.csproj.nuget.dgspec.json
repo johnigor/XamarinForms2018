@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John\\Desktop\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica\\App1_Mimica.csproj": {}
+    "C:\\GitHub\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica\\App1_Mimica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John\\Desktop\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica\\App1_Mimica.csproj": {
+    "C:\\GitHub\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica\\App1_Mimica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John\\Desktop\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica\\App1_Mimica.csproj",
+        "projectUniqueName": "C:\\GitHub\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica\\App1_Mimica.csproj",
         "projectName": "App1_Mimica",
-        "projectPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica\\App1_Mimica.csproj",
+        "projectPath": "C:\\GitHub\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica\\App1_Mimica.csproj",
         "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John\\Desktop\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica\\obj\\",
+        "outputPath": "C:\\GitHub\\XamarinForms2018\\MVVM\\App1_Mimica\\App1_Mimica\\App1_Mimica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
