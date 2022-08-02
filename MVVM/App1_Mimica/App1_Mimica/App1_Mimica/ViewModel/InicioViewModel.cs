@@ -1,4 +1,5 @@
 ﻿using Xamarin.Forms;
+using App1_Mimica.Data;
 using App1_Mimica.Model;
 using System.ComponentModel;
 
@@ -16,6 +17,9 @@ namespace App1_Mimica.ViewModel
 
         private void IniciarJogo()
         {
+            Armazenamento.Partida = this.Partida;
+            Armazenamento.RodadaAtual = 1;
+
             Application.Current.MainPage = new View.Jogar();
         }
 
